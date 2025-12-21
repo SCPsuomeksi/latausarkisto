@@ -1,3 +1,4 @@
-# latausarkisto
+SCP:SL:n uuden suomikäännöksen latausarkisto
+Lataukset löytää sivulta https://github.com/SCPsuomeksi/latausarkisto/releases
 
-Täältä lötyy SCP:SL:n uuden suomikäännöksen lataukset
+Tähän repoon voi myös ilmoittaa käännösvirheistä ja parannusehdotuksista.
