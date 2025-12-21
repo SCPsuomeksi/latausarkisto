@@ -1,0 +1,24 @@
+Tätä henkilöä ei ole enää olemassa.
+Tämä ruumis on pilaantunut.
+Tämä henkilö on herätetty henkiin liian monta kertaa.
+Tämä henkilö ei enää halua tulla herätetyksi henkiin.
+Tätä ruumista ei voi herättää henkiin.
+Tätä ruumista on jo syöty.
+Vain ihmisruumiita voi syödä.
+HYÖKKÄYSRAJOITUS
+Olet kieltänyt SCP-049:ä herättämästä sinua uudelleen henkiin!
+Kieltäydy uusista henkiin herättämisistä [key]-näppäimestä.
+Kohdetta ei löytynyt.
+Terveytesi on jo täynnä.
+Tätä ruumista syödään jo.
+Work together with your <color=#F00>SCP teammates</color>. Use your abilities to raise and maintain a horde of reanimated corpses, turning the tide of the game in your favor.
+Work together with your <color=#F00>SCP teammates</color>. Follow <color=#F00>SCP-049’s</color> command and take down your targets, creating fresh bodies to join the horde.
+Cardiac Attack:Press [key] on a nearby human to inflict them with Cardiac Arrest, eventually resulting in their death if medical aid is not administered in time. If the victim is already suffering from Cardiac Arrest, this attack will instantly kill them.
+Good Sense of the Doctor:Press [key] on a target in your line of sight to mark them, increasing your movement speed and tracking capabilities.
+The Doctor’s Call:Press [key] to generate Hume Shield for nearby SCP-049-2 instances.
+Resurrection:Hold [key] on a recently deceased corpse to resurrect them, turning them into an SCP-049-2 instance.
+Lobotomized Bloodlust:As you chase humans, keeping them within your light of sight will gradually increase your movement speed. This is represented by a red eye near the center of your display.
+Voracity:Press [key] on a human corpse to consume it. Consuming a corpse regenerates health.
+<size=50>Herätä henkiin</size>
+<size=40>Pidä [key]-näppäintä pohjassa</size>
+Swipe:Press [key] on a nearby human to attack them, dealing moderate damage.

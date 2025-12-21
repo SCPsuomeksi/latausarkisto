@@ -1,0 +1,91 @@
+SUURENNUS [amount]
+PÄÄSYTASO [tier]
+KOKEMUS [current] / [next]
+TÄYSI TASO SAAVUTETTU
+EI KAMERAA
+MENE KOHTEESEEN: [camera] ([cost])
+EI TARPEEKSI APUVIRTAA
+Odota noin [time] sekuntia
+VAATII KORKEAMMAN PÄÄSYTASON
+KAMERA EI KELPAA
+OVEN KÄYTTÖOIKEUS ESTETTY
+AVAA OVI ([cost])
+SULJE OVI ([cost])
+LUKITSE OVI ([cost])
+POISTA OVEN LUKITUS
+OVIEN LUKITSEMISEN USEUSRAJOITUS
+APUVIRTA
+OLET HYÖKKÄYKSEN KOHTEENA!
+POISTA OVIEN LUKITUKSET
+AVAA LAITOKSEN KARTTA
+SULJE
+KEVYEN ERISTYKSEN VYÖHYKE
+RASKAAN ERISTYKSEN VYÖHYKE
+SAAPUMISVYÖHYKE
+MAANPÄÄLLINEN VYÖHYKE
+VALOJEN SAMMUTUS ([cost])
+TÄSTÄ HUONEESTA EI VOI SAMMUTTAA VALOJA
+SAMANAIKAISTEN VALOJEN SAMMUTUSTEN RAJA SAAVUTETTU
+VALOJEN SAMMUTUSTEN USEUSRAJOITUS
+LÄHETÄ HISSI ([cost])
+HUONELUKITUS ([cost])
+HUONELUKITUKSEN USEUSRAJOITUS
+EI OVIA MITÄ LUKITA
+MERKITSE SIJAINTI ([cost])
+MERKITSET LIIAN NOPEASTI
+KAMERAN VAIHTAMINEN EPÄONNISTUI
+SIGNAALI MENETETTY
+UUDELLEENYHDISTETÄÄN (Odota noin [time] sekuntia)
+LAUKAISE TESLAPORTTI ([cost])
+TESLAPORTIN LAUKAISUN USEUSRAJOITUS
+$Pääsytaso [tier]$ – AVATTU
+$APUVIRRAN$ raja kasvoi määrään $[limit]$.
+$VALOJEN SAMMUTUS$ on nyt käytettävissä – sammuta huoneen valot $[key]$-näppäimestä.
+$VALOJEN SAMMUTUSTEN$ kertamäärän raja kasvoi $[number]$ huoneeseen.
+$HUONELUKITUS$ on nyt käytettävissä – lukitse huoneen kaikki ovet väliaikaisesti $[key]$-näppäimestä.
++[amount] KOKEMUSTA – Ylläpitokomento
++[amount] KOKEMUSTA – Luokan [role] tapon avustus
++[amount] KOKEMUSTA – Luokan [role] suora tappo
++[amount] KOKEMUSTA – Todistit luokan [role] tapon, jonka tekijänä oli tiimitoverisi
++[amount] KOKEMUSTA – Tiimitoverin auttaminen takaa-ajossa
++[amount] KOKEMUSTA – Tiimitoverin suojaaminen
++[amount] KOKEMUSTA – Estit Micro H.I.D.:n käyttämisen
+OLET LUKINNUT JO OVEN
+VYÖHYKKEEN LAAJUINEN VALOJEN SAMMUTUS ([cost])
+$VYÖHYKKEEN LAAJUINEN VALOJEN SAMMUTUS$ on nyt käytettävissä – löydät sen $laitoksen kartalta$ vyöhykkeiden nimien vierestä.
+VYÖHYKKEEN LAAJUISEN VALOJEN SAMMUTUKSEN USEUSRAJOITUS
+HUONEESTA ON JO SAMMUTETTU VALOT
+TÄLTÄ VYÖHYKKEELTÄ EI VOI SAMMUTTAA VALOJA
+ELÄMÄNMUOTOJA YHTEENSÄ
+KOHTEITA
+SCP-OLIOITA
+SIVIILEITÄ
+SOTILAITA
+KÄYTÄ KAIUTINTA
+HISSIN KÄYTTÖOIKEUS ESTETTY
+Assist your <color=#F00>SCP teammates</color>. Use facility systems against humans to help your team secure kills and provide vital intel. Level up your Access Tier by performing these actions to unlock new abilities.
+Virtually Indestructible:You can only be defeated if all of your SCP teammates are killed, or if humans engage all three generators and activate the Facility Overcharge. Rooms with active generators are highlighted on your map. Your teammates must deactivate them to prevent you from being shut down.
+Auxiliary Power:Using your abilities consumes Auxiliary Power (AP). AP is visible as a meter in the bottom right of your display and passively regenerates. You can view available abilities and their AP cost at the top right of your display.
+Deep Learning:Assisting your teammates in killing humans will grant you Experience (EXP). Gaining EXP grants progress towards the next Access Tier, which will grant you new abilities. EXP gains and level increases will be shown in the bottom left of your display.
+Overwatch:You view and traverse the facility through cameras. Press [key] on a camera icon to switch to that camera, or open the map by pressing Tab to switch to a specific room’s camera by selecting it.
+$PAKOKARTOITIN$ on nyt käytettävissä – valitse kartoitettavat ryhmät/vyöhykkeet $laitoksen kartalta$ etsiäksesi elossa olevia selviytyjiä tietyin aikavälein.
+APUVIRRAN PALAUTUMINEN PYSÄHTYNYT
+APUVIRRAN PALAUTUMINEN VÄHENTYNYT [precentage]:iin
+Olet lukinnut oven
+Käytät kaiutinta
+Huonelukitus käynnissä
+PAKOKARTOITIN
+PALAUTA KARTTA
+Pakokartoitin – [cnt] vyöhykkeellä
+VALITTUJA VYÖHYKKEITÄ: [cnt]
+VALITSE LÄPIKÄYTÄVÄT VYÖHYKKEET
+Kartoituksen tulos: $Liikkumattomia kohteita ei havaittu$.
+Yritetään uudelleen [time] sekunnin kuluttua...
+Kartoituksen tulos: $[role]$ havaittu sijainnissa "$[camera_name]$" ([zone]).
+SEURAAVA KARTOITUS: [time] sekunnin kuluttua
+Etsitään...
+KARTOITTAMINEN KESKEYTETTY
+MITÄ RYHMIÄ HALUAT ETSIÄ?
+Pakokartoitin etsii elossa olevia kohteita, jotka ovat viipyneet samalla alueella pitkän aikaa. Se havaitsee yhden kohteen kerrallaan.
+Valitse ainakin yksi etsittävä ryhmä!
+$OVIEN LUKITSEMINEN$ on nyt käytettävissä – lukitse ovi väliaikaisesti painamalla sitä $[key]$-näppäimellä.

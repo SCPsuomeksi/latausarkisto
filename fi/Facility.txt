@@ -1,0 +1,49 @@
+PUHEEN ÄÄNENVOIMAKKUUS
+Kyllä
+PAKOTA ALOITUS
+SCP-106 UUDELLEENERISTYS\nPROSESSIN OHITUS
+Käänteinen Y-akseli
+YHTEENVETO
+Peruuta
+T A V A R A L U E T T E L O
+KIRKKAUS
+ASETUKSET
+KATKAISE YHTEYS
+ALFA-YDINKÄRKI ON POIS PÄÄLTÄ
+PÄÄSY KIELETTY
+PUHEKESKUSTELU
+TAVARALUETTELON YLIKUORMITUS
+HIIREN HERKKYYS
+HAKKEROIDAAN
+OTETAAN...
+Kirkkauden nostaminen <b>huonontaa pelin tunnelmaa merkittävästi</b>.\nYritä pitää se niin alhaalla kuin mahdollista.\n<b>Oletusarvo on suositeltu.</b>
+[1] AVAA/SULJE OVI\n[2] LUKITSE OVI*\n\n*Oven lukitseminen kuluttaa erikoiskykyä
+SCP-079 ON LUKINNUT OVEN
+Kokonäyttötila
+Haluatko varmasti poistua palvelimelta?
+Perusasetukset. Täysi lista asetuksista löytyy päävalikosta.
+ODOTETAAN PELAAJIA
+YHTEENVETO
+JATKA
+PÄÄ-ÄÄNENVOIMAKKUUS
+yhdistänyt
+Pakenit tutkijana ja liityit MTF-joukkoihin.
+Pakenit D-luokan vankina ja liityit Kaaoskapinallisiin.
+OLET
+Pakenemisaika: [escape_minutes] minuuttia ja [escape_seconds] sekuntia
+Odota [time] ennen kuin voit käyttää esinettä [item] uudelleen.
+Saat lisätietoja <color=yellow><b>F1</b></color>-näppäimestä.
+Sinut on pidätetty.\n<size=40>Seuraa käskyjä tai kysy tiimitovereiltasi apua.</size>
+Nine-Tailed Fox otti sinut kiinni.\nNyt kun laitoksessa on yksi uhka vähemmän, he pystyivät vahvistautumaan yhdellä.
+Kaaoskapinalliset ottivat sinut vangiksi.\nHe pystyivät saamaan etuaseman antamasi tiedon avulla.
+KIERROS ALKAA: <color=yellow>{0}</color>s
+KIERROKSEN ALKAMINEN <color=#FF5050>PYSÄYTETTY</color>
+TÄHTÄÄMISEN HERKKYYDEN VÄHENNYS
+Peruuta heittäminen [key]-näppäimestä.
+Tähtääminen kerran painamalla
+Mykistä muut katsojat
+Ota haittaäänen vähennys käyttöön (suositeltu)
+Automatic (System Default)
+Mikrofonia ei havaittu!
+SYÖTTÖLAITE
+Puhalla kynttilät [key]-näppäimestä.

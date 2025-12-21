@@ -1,0 +1,36 @@
+Pelaajan <b>[user]</b> ruumis – hän oli [class]!\n\nKuolinsyy: [cause]
+Sinut uudelleeneristettiin.
+Höyrystetty Alfa-ydinkärjellä.
+Äkillinen elintoimintojen lakkaaminen. Ei merkkejä selvistä vammoista.
+Tuntematon kuolinsyy.
+Vakavat sähkön aihettamat palovammat.
+Tukehtumiskuolemaan johtanut hapenpuute.
+Syvien haavojen aiheuttama runsas verenvuoto.
+Vuodit kuiviin.
+Murtuneet jalat viittaavat kuolemaan putoamisen aiheuttamista vammoista.
+Putosit kuolemaasi.
+Mädäntynyt tasku-ulottuvuudessa.
+Sulit erittäin syövyttävästä aineesta.
+Sairaalloisen keltainen iho ja eltaantunut haju viittaavat kuolemaan myrkystä.
+Kuolit myrkytykseen.
+Kalpea iho ja suusta vuotava veri viittaavat aineen nielemisestä aiheutuneeseen sisäiseen verenvuotoon.
+SCP-207 tappoi sinut.
+Sinun ei olisi kannattanut ottaa kahta enempää!
+Jäit teslaporttiin!
+Räjähdyksen aiheuttamat sirpalevammat ja vakavat palovammat.
+Sinut tappoi lähellä tapahtunut räjähdys.
+Laajat syvät repaleiset haavat ja runsas verenvuoto.
+Kaularangan murtuma kallonpohjan alueella.
+Ruumiissa esiintyy suuria syviä puremahaavoja.
+Ruumiissa esiintyy lyömisvammoja ja pieniä raapimisjälkiä.
+[ammotype] luodin haavoja.
+Kuolemaan johtanut ulkoinen vamma. Ruumis on pahasti ruhjoutunut ja murskattu.
+Merkit vakavista vammoista molemmissa reisiluissa viittaavat kuolemaan verenkiertošokista.
+Sinut uhrattiin SCP-106:n uudelleeneristämiseksi.
+Sinut tapettiin automaattisesti omien joukkojen vahingoittamisesta.
+Kylmä iho ja paleltuneet sormet viittaavat kuolemaan hypotermiasta.
+Jäädyit kuoliaaksi.
+Ruumiissa esiintyy syviä repaleisia haavoja ja raapimisjälkiä.
+Vaahtokarkkimies tappoi sinut!
+Luodinhaavat, joissa on jäämiä jostain eloperäisestä.
+Useita avohaavoja, joista ryömii pieniä hyönteisiä ulos.

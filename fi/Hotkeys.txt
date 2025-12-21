@@ -1,0 +1,41 @@
+Pikanäppäimet
+Luo uusi pikanäppäin
+Pikanäppäimillä voit määrittää esineitä tiettyihin näppäimistön näppäimiin, jolloin voit ottaa haluamasi esineen käsiisi avaamatta tavaraluetteloasi.
+Avainkortti
+Ensisijainen ase
+Toissijainen ase
+Ensiaputarvike
+Kranaatti
+Nimi
+Määritetty näppäin
+Ulkonäkö
+Valitsemisjonon tapa
+Esineen valitseminen tärkeys
+Aseta esinejonon esineen valitsemisen aloituspiste määritetyn ehdon perusteella.
+Piilotettu
+Tavallinen kuvake
+Pieni kuvake
+Esinejono
+Valinta tehdään alla olevan esinevalintalaatikon järjestyksen perusteella.
+Tavaraluettelon järjestys
+Valinta tehdään tavaraluettelon esineiden järjestyksen perusteella.
+Ei mitään
+Tilanteeseen sopivin ensiaputarvike
+Pyrkii valitsemaan parhaan ensiaputarvikkeen terveytesi, jaksavuutesi tai haittavaikutustesi perusteella.
+Muista edellinen
+Järjestyksen aloituspiste ei nollaannu, jos vaihdat toiseen esineeseen, vaan se valitsee edellisen esineen.
+Havaitse ovien pääsyvaatimukset
+Suosi avainkortteja, joilla voit avata lähellä olevat ovet.
+Ohita lataamattomat aseet
+Suosi ladattuja aseita lataamattomien sijasta.
+Esineet
+Tavaraluettelon paikkojen valitsemisjärjestys
+Aseta, missä järjestyksessä esineet valitaan niiden tavaraluettelopaikan perusteella. Paikkaa, jossa ei ole yllä olevassa laatikossa määritettyä esinettä, ei valita.
+Poista kaikki omat pikanäppäimet
+Palauta oletukset (pidä pohjassa)
+Muokkaa: [hotkey]
+Uusi nimeämätön pikanäppäin
+Mikä tahansa tuliase
+Mikä tahansa avainkortti
+Mikä tahansa heitettävä
+Mikä tahansa SCP-esine

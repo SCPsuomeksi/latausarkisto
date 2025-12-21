@@ -1,0 +1,18 @@
+Mukautettu
+Esiasetus #[index]
+TALLENNA
+POISTA LISÄVARUSTEET
+Oletus
+ESIASETUKSET
+TYÖASEMA - <color=#c00>LEPOTILASSA</color>
+<size=38><color=#ccc>LAITOS-02:N TULIASEIDENMUKAUTUSPISTE</color> - VALMIUSTILA KÄYTÖSSÄ</size>\n<size=34.3>KÄYNNISTÄ KOSKETTAMALLA NÄYTTÖÄ. <color=#ccc>VAIN VALTUUTETUILLE HENKILÖILLE.</color></size>
+TERVETULOA, KÄYTTÄJÄ!
+TYÖASEMA KÄYNNISTYY
+TYÖASEMA - <color=#0c0>VALMIINA</color>
+<size=48><color=#ccc>LAITOS-02:N TULIASEIDENMUKAUTUSPISTE</color> - VALMIINA</size>\n<size=45><color=#ccc>OTA ASEESI ESILLE MUOKATAKSESI SEN LISÄVARUSTEITA.</color></size>
+KATKAISTAAN VIRTOJA
+TYÖASEMA MENEE LEPOTILAAN
+NÄYTÄ YHTEENVETO
+SULJE YHTEENVETO
+Lisävarusteen [Attachment] mukautus
+Muokkaa aseiden lisävarusteita [Key]-näppäimestä.

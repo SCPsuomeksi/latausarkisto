@@ -1,0 +1,28 @@
+Äänenvoimakkuus
+Päävoimakkuus
+Puhekeskustelu
+Äänitehosteet
+Mikrofonin käyttö
+Syöttölaite
+Tietosuoja-asetukset
+Muuta
+Päävalikko
+Musiikki
+Käyttöliittymä
+Teema
+Kohinanvaimennus
+Vaimentaa mikrofonisi poimimaa ei-toivottua taustaääntä. Tämän asetuksen päällä pitäminen on erittäin suositeltavaa, eikä sen pitäisi vaikuttaa äänesi laatuun.
+Puheäänet
+SCP-127:n puheen äänenvoimakkuuus
+SCP-3114:n puheen äänenvoimakkuuus
+Äänitehosteet
+Puhekeskustelun etäisyyskaiku
+Määrittää, kuinka paljon puhekeskustelun ääni vaimenee ja alkaa kaikumaan liikkuessasi kauemmaksi puhujasta.
+Oletus
+Enemmän kaikua
+Mahdollisimman vähän kaikua
+Kuulutuskaiutinsimulointi
+Määrittää, toistetaanko kuulutusjärjestelmän kuulutukset (kuten C.A.S.S.I.E.:n puheet) lähimmästä kaiuttimesta vai toistetaanko ne ilman 3D-vaikutusta.
+Takaa-ajomusiikki
+Mykistä äänitehosteet
+Äänitehosteet katsojana ollessa

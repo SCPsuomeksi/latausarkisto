@@ -1,0 +1,6 @@
+<color=red>Pääsy kielletty</color>
+Saavutit <color=yellow>[type]-patruunoiden</color> enimmäismäärän (<color=yellow>[max_type_count] kpl</color>).
+<b>Olet jo</b> saavuttanut <color=yellow>[type]-patruunoiden</color> enimmäismäärän (<color=yellow>[max_type_count] kpl</color>).
+Saavutit esineiden <color=yellow>[type]</color> enimmäismäärän (<color=yellow>[max_type_count] kpl</color>).
+<b>Olet jo</b> saavuttanut esineiden <color=yellow>[type]</color> enimmäismäärän (<color=yellow>[max_type_count] kpl</color>).
+Voit kantaa enintään <color=yellow>[max_item_count] esinettä</color>.

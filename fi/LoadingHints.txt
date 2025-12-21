@@ -1,0 +1,83 @@
+Voit riisua pelaajan aseista tähtäämällä häntä tuliaseella ja pitämällä [Käytä]-näppäintä pohjassa.
+Laitoksen neljä päävyöhykettä ovat:\nkevyen eristyksen vyöhyke, raskaan eristyksen vyöhyke, saapumisvyöhyke ja maanpäällinen vyöhyke.
+Tutkijoiden ja D-luokan vankien on päästävä maanpinnalle paetakseen.
+Laitosvartijat ovat heikkoja yksin, mutta vahvoja joukossa. Pyrkikää liikkumaan yhdessä!
+Juokseminen kuluttaa jaksavuuttasi – se on arvokas voimavarasi, joten säästä sitä hätätilanteisiin!
+Saapumisvyöhykkeellä on kaksi porttia, jotka vievät pinnalle. Tarvitset avainkortin niiden avaamiseen.
+Hissiin meneminen on helppo ja nopea tapa paeta useimmilta SCP:iltä.
+Paenneet D-luokan vangit liittyvät kaaoskapinallisiin, kun taas paenneet tutkijat päätyvät osaksi MTF:n joukkoja.
+Voit palauttaa jaksavuutesi täyteen välittömästi adrenaliinillä saadaksesi etulyöntiaseman taistelussa.
+Radiossa on neljä kantama-asetusta – mitä pidempi kantama, sitä nopeammin akku tyhjenee.
+Teslaportit ovat sähköansoja, joita on ympäri raskaan eristyksen vyöhykettä. Kulje niiden läpi varoen!
+MTF:n yksiköt ja kaaoskapinalliset saapuvat maanpäällisen vyöhykkeen vastakkaisiin päihin.
+Alfa-ydinkärki tappaa jokaisen laitoksessa olevan räjähtäessään. Voit käynnistää sen maanpäälliseltä vyöhykkeeltä.
+Saapumisvyöhykkeen kuulutushuoneesta voi kuuluttaa viestin laitoksen kaiuttimista, jonka jokainen pelaaja kuulee.
+Alfa-ydinkärjen räjäyttäminen voidaan peruuttaa sen huoneesta raskaan eristyksen vyöhykkeeltä.
+Voit heittää esineitä T-näppäimestä (oletusnäppäin). Tällä tavalla voit avata avainkortillisia ovia etänä tai rikkoa ikkunoita.
+Pääsy kevyen eristyksen vyöhykkeelle estetään 15 minuutin kuluttua,\njonka jälkeen jokainen sinne jäänyt kuolee. Pakene vielä kun voit!
+Maksimoi etulyöntiasemasi vaihtamalla aseesi lisävarusteita tilanteen perusteella.
+Mitä enemmän aseessasi on lisävarusteita, sitä enemmän se painaa. Tämä vaikuttaa jaksavuuteesi ja liikkumisnopeuteesi.
+Äänenvaimentimet eivät ainoastaan vaimenna laukaisun ääntä, vaan ne piilottavat myös suuliekin.
+Pidemmät ja painavammat aseet ovat vähemmän tarkkoja juostessa ammuttuna.
+Suojaliivin käyttäminen lisää esineiden ja patruunoiden määrää, jota voit kantaa.
+Panssariluodit (AP-luodit) tehoavat parhaiten suojaliiviä käyttäviin vihollisiin.
+Reikäpääluodit (JHP-luodit) tekevät enemmän vahinkoa suojaliivittömiin vihollisiin, mutta vähemmän vahinkoa suojaliiviä käyttäviin vihollisiin.
+Voit pitää [Lataa]-näppäintä pohjassa poistaaksesi patruunat aseesta, jolloin ne siirtyvät tavaraluetteloosi.
+Kaaoskapinallisten aseet tekevät paljon vahinkoa, mutta niiden patruunoita ei löydy laitoksesta. Tee jokainen laukaus merkitykselliseksi.
+Kranaatteja voi käyttää ovien tuhoamiseen.
+Voit heittää kranaatin myös hiiren oikeasta painikkeesta, jolloin se ei lennä niin pitkälle.
+Micro H.I.D. voi tappaa useimmat SCP:t todella nopeasti, mutta sen akku ei kestä pitkään. Käytä sitä järkevästi!
+Micro H.I.D.:ä on ladattava noin viisi sekuntia ennen kuin sillä voi ampua.
+Hiiren oikean painikkeen pohjassa pitäminen pitää Micro H.I.D:n ampumavalmiina, mutta kuluttaa myös hitaasti sen akkua.
+Micro H.I.D. pitää kovaa ääntä, kun sitä ladataan. Käytä sitä silloin, kun uhrisi eivät pääse karkuun.
+Micro H.I.D:n lataaminen tuottaa uhkaavan äänen, joka on jo tarpeeksi pilaamaan vihollistesi suunnitelmat.
+Pullo SCP-207:ää ei ainoastaan paranna liikkumisnopeuttasi, vaan se palauttaa myös osan terveydestäsi.
+Voit nauttia jopa kolme pulloa SCP-207:ää, jolloin saat merkittävän parannuksen liikkumisnopeuteesi.
+SCP-500 ei ainoastaan paranna sinua välittömästi, vaan se poistaa myös useimmat haittavaikutukset ja antaa hyvän määrän terveyden palautumista.
+Vaikka SCP-268 tekeekin sinut näkymättömäksi ihmisille, SCP-079 voi silti nähdä sinut.
+SCP-268 ei pelasta sinua SCP-096:lta, jos olet katsonut sen kasvoja.
+SCP-018 on erittäin arvaamaton. Jos joku heittää sen, juokse turvaan.
+SCP-018:lla voi tukkia tien takaa-ajajilta, jos sen heittää pomppimaan käytävälle.
+SCP-330:sta voi saada kuutta erilaista karkkia, joilla on kullakin oma vaikutus. Muista kuitenkin, ettet ota kahta enempää!
+SCP-1853 parantaa aseen lataamisen nopeutta ja vähentää ampujan tuntemaa rekyyliä.
+SCP-2176:lla voi lukita huoneen tai avata SCP-079:n lukitseman huoneen ja oven lukitukset.
+SCP-2176:lla voi lamaannuttaa SCP-079:n hetkellisesti, jos se heitetään huoneeseen, jota se para-aikaa vahtii.
+SCP-244 hidastaa esineiden poimimisen nopeutta ja pysäyttää SCP:iden uusiutuvan suojan uusiutumisen.
+SCP-1576 mahdollistaa elosa olevien pelaajien puhua katsojille lyhyen aikaa.
+SCP-914 pystyy muuntamaan kaikkia esineitä, mukaan lukien aseita ja patruunoita.
+SCP-914 pystyy latamaan radion ja Micro H.I.D.:n.
+SCP-914 pystyy luomaan useita ainutlaatuisia esineitä, joita et löydä mistään muualta. Kokeile mitä saat!
+SCP-079 on alussa suhteellisen heikko, mutta siitä tulee voimakkaampi pelin edetessä.
+SCP-079 voi lukita ovia, sammuttaa valot ja laukaista teslaportin.
+SCP-079:n vahtima teslaportti näyttää aina siltä, että se olisi laukaisuvalmiina.
+SCP-079 uudelleeneristetään käynnistämällä korkean eristyksen vyöhykkeellä sijaitsevat generaattorit, jonka jälkeen sen eristyskammiossa olevaa painiketta täytyy painaa.
+SCP-079 voi säätää kameroidensa kuvan suurennusta hiiren rullalla.
+Mitä kauemmin SCP-079 pitää ovea lukittuna, sitä enemmän virtaa sen lukittuna pitäminen kuluttaa.
+SCP-079 saa käyttöön pakokartoittimen pääsytasolla 4. Jos se havaitsee ihmisen piileskelemässä jossain, kuulet hälytysäänen.
+SCP-079:n käyttämän kameran valo palaa sinisenä. Ole varuillasi! – et koskaan tiedä milloin se vahtii sinua.
+SCP-173 voi liikkua vapaasti pimeissä huoneissa, vaikka sitä päin katsottaisiinkin. Pidä mukanasi siis valonlähdettä!
+SCP-173 voi tappaa yllättäen takaapäin.
+SCP-173 voi luoda maahan lätäkön ainetta, joka hidastaa sen läpi kulkevia ihmisiä. Tämä lätäkkö on nopea ja tehokas keino pitää jokin alue hallinnassa.
+SCP-106 voi kävellä ovien ja ikkunoiden läpi.
+SCP-106 voi nähdä lähellä olevat ihmiset väijyessään maan alla.
+SCP-106 voi teleportata lähialueella sijaitseviin huoneisiin Sarkain-näppäimestä (oletusnäppäin) avattavan kartan avulla.
+SCP-106:n kyvyt ovat riippuvaisia voimavarasta nimeltä "puhti", jota kuluu aina, kun sen kykyjä käytetään.
+SCP-106 on haavoittuvimmillaan juuri kun se on noussut maan alta.
+SCP-096 on haavoittuvimmillaan juuri kun se on alkanut rahoittua.
+SCP-096 voi rynnätä syöksyen eteenpäin ollessaan raivostunut – rikkoen ovia ja tappaen ihmisiä.
+SCP-096 voi tuhota ovia ja repiä suljettuja portteja auki ollessaan raivostunut.
+SCP-939 voi matkia tappamiensa pelaajien puhetta.
+SCP-939 voi päästää ilmaan pilven muistihäiriötä aiheuttavaa aerosolia.\nSen vaikutuksen alaisena olevat ihmiset eivät pysty havaitsemaan SCP-939:ää ennen kuin se hyökkää.
+Adrenaliinin käyttö kumoaa SCP-939:n päästämän muistihäiriötä aiheuttavan aerosolin vaikutukset.
+Tainnutuskranaatit toimivat erittäin tehokkaasti SCP-939:ää vastaan.
+Mitä heikompi SCP-939:n jaksavuus on, sitä huonommin se voi havaita ihmisiä.
+Mitä pidempään SCP-939 keskittyy, sitä ääniherkempi siitä tulee.
+SCP:iden askeleet kuulostavat erilaisilta kuin ihmisten askeleet. Kuuntele tarkasti!
+SCP-049:n hyökkäys aiheuttaa ihmiselle sydämenpysähdyksen. Terveys ja jaksavuus kuluvat sen aikana todella nopeasti.
+SCP-049 voi tappaa välittömästi minkä tahansa ihmisen, joka kärsii sydämenpysähdyksestä.
+Sydämenpysähdys kuluttaa terveyttäsi todella nopeasti. Tarvitset lääkintätarvikkeita, jos haluat selviytyä siitä.
+SCP-049 voi herättää ruumiin henkiin vain, jos se on tuore.
+SCP-049 voi antaa pienen terveyssuojan lähellä oleville SCP-049-2-yksilöilleen.
+SCP-049-2 ottaa lisävahinkoa pääosumista.
+SCP-049-2:t ovat hyviä tiedustelijoita ja vaarallisia suurina joukkoina
+Suurimmalla osalla pelattavista SCP:istä on toinen terveyspalkki, josta käytetään lyhennettä "HS". Se ottaa vastaan otetun vahingon ja uusiutuu ajan myötä.

@@ -1,0 +1,46 @@
+Ei mitään~Default option with no effects.
+Rautatähtäin~A pair of alignment markers making up a simple, lightweight sighting device.
+Punapistetähtäin~Non-magnifying reflex sight with a small illuminated dot indicating the point of aim.
+Holografinen tähtäin~Non-magnifying sight with a holographic reticle. Effective in close-quarters combat.
+Pimeänäkötähtäin~Telescopic sight augmented with a night-vision device. Heavy, but effective in all lighting conditions.
+Patruunalaskuritähtäin~Iron sights with integrated ammunition counting device.
+Kiikaritähtäin~Heavy sighting device, providing optical magnification. Perfect for long-range, but limits the overall perception.
+Vakioperä~Regular stock, providing better control of the firearm when aiming down the sights.
+Pidennetty perä~Provides better control of the firearm when aiming down the sights, but increases the equipping time.
+Lyhennetty perä~Makes the firearm more compact, which increases mobility.
+Kevyt perä~Reduces the weight of the firearm but makes it harder to control the recoil when aiming down the sights.
+Raskas perä~Increased weight lowers mobility but makes the firearm more stable when aiming down the sights.
+Rekyyliä vähentävä perä~Stock equipped with a system that attempts to disperse force between individual shots.
+Etukahva~Vertical forward grip. Makes it easier to handle the muzzle rise.
+Lasertähtäin~Provides visual reference point onto the target, which helps in hip-firing but can easily reveal your position.
+Asevalo~Toggleable light source. Increases total weight of the firearm but can be life-saving in dark areas.
+Patruunalaskuri~Ammunition counting device. Experimental technology that has proven to be useful, especially with high-capacity magazines.
+Vakiopiippu~Conventional barrel with no muzzle device.
+Pidennetty piippu~Improves the overall firepower, but contributes to low mobility caused by increased weight and length.
+Äänenvaimennin~Sound moderator. Reduces the loudness of gunshots, but increases the overall weight and length of the firearm.
+Liekinsammutin~Eliminates muzzle flash. Makes it easier to shoot in the darkness.
+Suujarru~Recoil compensator. Uses propellant gases to reduce recoil, but increases the acoustic intensity of gunshots.
+Rekyylinvahvistin~Improves fire rate, which results in more damage per second, but the weapon is harder to control.
+FMJ-lipas~Kokovaippapatruunoita sisältävä vakiolipas.
+AP-lipas~Panssaripatruunoita sisältävä vakiolipas.
+JHP-lipas~Reikäpääpatruunoita sisältävä vakiolipas.
+Suurikapasiteettinen FMJ-lipas~Kokovaippapatruunoita sisältävä suuremman kapasiteetin lipas.
+Suurikapasiteettinen AP-lipas~Panssaripatruunoita sisältävä suuremman kapasiteetin lipas.
+Suurikapasiteettinen JHP-lipas~Reikäpääpatruunoita sisältävä suuremman kapasiteetin lipas.
+FMJ-rumpulipas~Kokovaippapatruunoita sisältävä suuren kapasiteetin rumpulipas.
+AP-rumpulipas~Panssaripatruunoita sisältävä suuren kapasiteetin rumpulipas.
+JHP-rumpulipas~Reikäpääpatruunoita sisältävä suuren kapasiteetin rumpulipas.
+Pienikapasiteettinen FMJ-lipas~Kokovaippapatruunoita sisältävä pienemmän kapasiteetin lipas.
+Pienikapasiteettinen AP-lipas~Panssaripatruunoita sisältävä pienemmän kapasiteetin lipas.
+Pienikapasiteettinen JHP-lipas~Reikäpääpatruunoita sisältävä pienemmän kapasiteetin lipas.
+Viiden patruunan rulla~Holds fewer cartridges but is capable of dealing increased damage to armored enemies.
+Kuuden patruunan rulla~The classic six-shooter.
+Seitsemän buckshot-patruunan rulla~Filled with shotgun-like cartridges, effective in close-quarters.
+Karbiinin ylärunko~Regular carbine upper receiver that is considered a great compromise between firepower and mobility.
+Rynnäkkökiväärin ylärunko~Full-size upper receiver improves firepower and accuracy, but a heavier gas system reduces the fire rate.
+Lyhennetty piippu~Shortened version of the standard barrel, used to improve draw speed and mobility.
+Supistaja~Increases total radius of spread but improves the consistency of the pattern.
+Pidennetty piippu~Slightly reduces the spread radius but increases the total firearm weight and length.
+Ei perää~Short configurations come with high mobility, but removing stocks from a high-recoil rifle isn't always the best idea.
+Yksittäislaukausjärjestelmä~Standard system. One trigger-pull leads to one discharge.
+Kaksoislaukausjärjestelmä~Modified trigger mechanism which actuates both sears with a single pull.

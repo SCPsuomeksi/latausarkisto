@@ -1,0 +1,30 @@
+Patruunat [loaded]/[capacity] [type]
+Vahinko
+Tulinopeus
+Lonkkatarkkuus
+Tähtäintarkkuus
+Paino
+Pituus
+PUDOTA:
+Kypärän suojaus
+Liivin suojaus
+Jaksamisen kuluminen
+Liikkumisnopeuus
+Esinerajoitukset:
+Patruunarajoitukset:
+[amount] yhteensä
+Panssarinlävistys
+Juoksutarkkuus
+Naura ilkikurisesti [key]-näppäimestä.
+Latausta jäljellä: [percent]
+Ammuksia jäljellä: [rem]
+Pidä [primary] -näppäintä pohjassa käyttääksesi pikatulitilaa.
+Pidä [secondary] -näppäintä pohjassa ladataksesi suuritehoisen hyökkäyksen tilan.
+Vaihda eri tulimuotojen välillä [key] -näppäimestä.
+Hyökkää [key] -näppäimestä.
+Ryntää pitämällä [key] -näppäintä pohjassa.
+Valmiina sähköpurkaukseen. Käynnistä [primary] -näppäimestä.
+Tämä ase on vaurioitunut. Sen toimivuus on rajoitunut.
+SCP-127 vahvistuu sitä mukaa, kun tunnesiteesi sen kanssa syvenee.
+Ohjaa käärmettä $nuolinäppäimistä$ tai $[up], [left], [down] ja [right]$ -näppäimistä.
+Naura ilkikurisesti [key]-näppäimestä.

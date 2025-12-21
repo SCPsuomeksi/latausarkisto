@@ -1,0 +1,101 @@
+LIITY
+SULJE
+VARJOJEN TARKKUUS
+ASETUKSEET
+<size=22.5>PERUSTUU <i>SCP: CONTAINMENT BREACHIIN</i></size>
+TAKAISIN
+KIELI
+REUNANPEHMENNYS
+Vaihda laatua:\n-PIKSELIVALOJEN MÄÄRÄ - Enimmäismäärä valonlähteitä, jotka on renderöity yksittäisiin pikseleihin.\n-Pystytahdistus - Tahdistaa kuvataajuuden näyttösi virkistystaajuuteen.
+LIITY PELIIN
+JÄLKI-\nKÄSITTELY
+TEKIJÄT
+LOPETA PELI
+Kokonäyttötila
+NÄYTTÖASETUKSET
+VÄRINKORJAUS
+Syötä IP-osoite...
+NÄYTÖN KUVATARKKUUS
+PELAA
+PIKSELIVALOJEN MÄÄRÄ
+VARJOJEN TYYPPI
+VARJOT
+LUO PELI
+Vaihda jälkikäsittely asetuksia. Nämä asetukset eivät yleensä vaikuta suorituskykyyn, joten oletusarvojen jättäminen on suositeltu.
+Valorenderöinti:\nKun poissa päältä, grafiikoiden laatu on huomattavasti alhaisempi. Tämän asetuksen pois päältä ottamista suositellaan vain huonoille tietokoneille.
+PYSTYTAHDISTUS
+YHDISTÄ
+LAATUASETUKSET
+Vaihda varjoasetuksia. Näiden asetusten alhaiseksi jättäminen saattaa parantaa pelin sulavuutta.
+PÄÄVALIKKO
+VALORENDERÖINTI
+LIIKESUMENNUS
+VARJOJEN ETÄISYYS
+YKSITYISKOHDAT
+3. SCP-914
+TUTORIAALIT
+VAROITUS
+Selaa saatavilla olevia palvelimia
+Älä näytä uudelleen
+Miten haluaisit yhdistää?
+PALVELINLUETTELO
+SELVÄ
+ETSI PELI
+2. Aseiden käyttäminen
+Käytämme Discordia keskustelualustanamme. Se ei vaadi asennusta.\n(paina logoa liittyäksesi)
+Palvelin käynnistetään lähiverkossa oletuksena.\nKaverisi tarvitsevat IP-osoitteesi liittyäkseen.\nJos haluat tehdä julkisen palvelimen, käynnistä LocalAdmin.exe pelin tiedostoista ja seuraa ohjeita.\nKysy meidän tekniseltä tuelta apua, jos sinulla on kysymyksiä. (Linkki päävalikossa)
+1. Perusasiat
+Esitetty peli on vielä beetassa.\nSaatat kohdata yhteysongelmia ja monia muita bugeja.\nPelin tämänhetkinen tila ei kuvasta sen lopullista versiota.
+4. (Lisää tutoriaaleja tulee myöhemmin)
+YHDISTÄ SUORAAN
+TEKNINEN TUKI / FOORUMI
+ÄÄNENVOIMAKKUUS
+Anna tietyn palvelimen IP-osoite.
+LADATAAN TIETOJA
+PALVELIMIA EI LÖYTYNYT
+SULJE/PERUUTA ESC-NÄPPÄIMESTÄ
+NÄPPÄINMÄÄRITYKSET
+VEREN ENIMMÄISRAJA
+Enimmäiskuvataajuus
+Kuvataajuusraja ei toimi pystytahdistuksen ollessa käytössä!
+Palauta oletukset
+Me käytämme Steamin foorumia keskustelualueenamme. (Paina logoa avataksesi foorumin)
+ÄÄNIASETUKSET
+PÄÄ-ÄÄNENVOIMAKKUUS
+PÄÄVALIKON MUSIIKKI
+ÄÄNIKESKUSTELU
+ÄÄNITEHOSTEET
+PELATTAVUUSASETUKSET
+NOPEA INFON HAIHTUMINEN
+Luokan esittelyteksti katoaa paljon nopeammin.
+SCP-079 - VAIHDA NÄKYVYYSTILAA
+Paina kerran vaihtaaksesi kameratilojen välillä.
+SCP-079 - JÄLKIKÄSITTELY
+Jos poistettu käytöstä, kameratehosteet lievenevät huomasttavasti.
+KUVAN KEIKKUMINEN
+Aktivoi ensimmäisen persoonan kameran keikkumisen liikkuessa.
+AKTIVOI JUOKSEMINEN
+Juokseminen vaihtelee päälle ja pois, napin pohjassapitämisen sijaan.
+ERILLINEN PALKKI VÄLIAIKAISELLE TERVEYDELLE
+Erottaa väliaikaiset terveyspisteet omaan palkkiin tavallisen terveyspalkin käytön sijasta.
+Käännöksemme ovat avointa lähdekoodia GitHubissa!\nHaluatko auttaa? Paina tähän päästäksesi repoon.
+TILAPÄIVITYS
+Jos käytössä, tilasi näkyy Discordissa/Steamissä.
+NÄYTÄ TARKKA TERVEYDEN ARVO
+Näyttää terveyden tarkan arvon prosenttejen sijaan.
+JULKINEN AULA
+Jos käytössä, Steam-kaverisi voivat liittyä peliisi kysymättä lupaa.
+PIILOTA IP-OSOITE
+Jos käytössä, piilottaa kaikki IP-osoitteet pelin konsolista.
+AKTIVOI NOSTO
+Tavaroiden nosto ei tarvitse napin pohjassapitämistä; paina uudelleen peruaksesi.
+Lisää pehmeät varjot kulmiin ja ahtaisiin paikkoihin antaakseen näkymälle enemmän syvyyttä.
+Antaa näkymälle enemmän syvyyttä korkealla suorituskyvyn kustannuksella.
+Antaa valoille enemmän syvyyttä käyttämällä valojen voimakkuuteen perustuvaa hehkua.
+Näytä tekstitykset CASSIEn ilmoituksille.
+Väläyttää tehtävä palkkia, kun synnyt uudelleen pelin ollessa taustalla.
+Pehmentää reunoja ja poistaa visuaalisia vääristymiä.
+Tahdistaa pelin kuvataajuuden näyttösi virkistystaajuuteen poistaakseen kuvan repeilyä.
+Pinnoille heijastetut tekstuurit, kuten luodinreiät ja veriroiskeet.
+Tumma tila
+Muuta jotkin kirkkaat asiat näyttämään niiden tumma versio.

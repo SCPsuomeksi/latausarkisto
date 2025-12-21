@@ -1,0 +1,18 @@
+Hiiriasetukset
+Herkkyys
+Hiiren herkkyyden vähennys tähdättäesssä
+Raakasyöte
+Käänteinen Y-akseli
+Hiiren herkkyys jaetaan tähtäimen suurennoskertoimella tähdättäessä aseella – tämän ansiosta viholliset liikkuvat aina saman matkan näytöllä suhteessa hiiren liikkeeseen. Voit lisätä tai vähentää herkkyyden alentamisen voimakkuutta muuttamalla tätä asetusta.
+Pidä pohjassa
+Paina kerran
+Tähtäämisen näppäintila
+Juoksemisen näppäintila
+Esineen poimimisen näppäintila
+Hiipimisen näppäintila
+Vapaan katsomisen näppäintila
+Pudota esine hiiren oikealla (tavaraluettelossa)
+Tavaraluettelon avaamisen näppäintila
+Vaihda vyöhykettä näppäimillä
+Automaattinen katsottavan vaihto
+Vaihtaa kameran katsomaan elossa olevaa pelaajaa automaattisesti lyhyen ajan jälkeen, jos et katso ketään.

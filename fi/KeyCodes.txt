@@ -1,0 +1,19 @@
+Palvelimen asetusta ei löytynyt
+Määrittämätön näppäin
+Nuoli ylös
+Nuoli alas
+Nuoli vasemmalle
+Nuoli oikealle
+Vasen vaihto
+Oikea vaihto
+Vasen ctrl
+Oikea ctrl
+Vasen alt
+Oikea alt
+Sarkain
+Välilyönti
+Enter
+Hiiren vasen painike
+Hiiren oikea painike
+Hiiren keskipainike
+Hiiren {0}. painike

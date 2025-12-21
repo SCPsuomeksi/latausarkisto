@@ -1,0 +1,101 @@
+Uutiset
+Palvelimet
+Asetukset
+Lopeta
+Somemme
+Internet
+Suosikit
+Viralliset
+Historia
+Kaverit
+Hae palvelimia
+Luo palvelin
+Liity takaisin
+Yhdistä suoraan
+Päivitä
+Piilota tyhjät palvelimet
+Piilota täydet palvelimet
+Ei pääsylistaa
+Video
+Ääni
+Syöte
+Pelattavuus
+Muut
+Ikkunatila
+Kokonäyttö
+Reunaton ikkuna
+Suurennettu ikkuna
+Ikkunoitu
+Pystytahdistus
+Kuvataajuusrajoitin
+Pois päältä
+Tekstuurien laatu
+Siirtokuvat
+Varjot
+Varjojen tarkkuus
+Varjojen etäisyys
+Liikesumennus
+Värinkorjaus
+Reunanpehmmennys
+Valorenderöinti
+Päävoimakkuus
+Äänitehosteet
+Puhekeskustelu
+Päävalikon musiikki
+Valikon äänet
+Päävalikon musiikki
+Nopea infon häipyminen
+Kuvan keikkuminen
+Juokse painamalla kerran
+Näytä tarkka terveysarvo
+Tilapäivitys
+Avoin aula
+Etsi painamalla kerran
+SCP-079 - Vaihda katselutilaa
+SCP-079 - Jälkikäsittely
+Kieli
+Päävalikko
+Yhdistä
+Takaisin
+Tämä muutos vaatii uudelleenlatauksen.\nLataa valikko uudelleen nyt?
+Kyllä
+Ei
+Haluatko varmasti poistua pelistä?
+Näytön kuvatarkkuus
+Piilota IP-osoite
+Tervetuloa takaisin, {username}!
+Tekijät
+TODENNETAAN
+Yhdistetään keskuspalvelimille...
+<color=green>Yhteys muodostettu</color>
+<color=red>Yhdistysvirhe (Check console for details)</color>
+<color=red>Steam-todennusvirhe (Näe lisätiedot konsolista)</color>
+<color=red>Discord-todennusvirhe (Näe lisätiedot konsolista)</color>
+Poistettu käytöstä
+sekuntia
+Ruumiiden poistoaika
+Näytä Steam-profiili
+Antaa pelaajien nähdä Steam-profiilisi painamalla kuvaketta pelaajaluettelossa.
+Älä jäljitä (DNT)
+Estää palvelinta käyttämästä tietojasi (kuten IP-osoitetta, käyttäjätunnusta jne.) muihin kuin palvelimen turvallisuutta vaativiin asioihin.
+Grafiikkarajapinta
+Palvelimen luomista suoraan pelistä ei enää tueta.\nTällä hetkellä on olemassa kolme tapaa luoda SCP:SL-pelipalvelin:\n- Voit ladata SCP:SL dedicated server (Steam AppID: 996560) -työkalun ja pyörittää sitä omalla tietokoneellasi.\n- Voit vuokrata oman palvelimen tai virtuaalipalvelimen palveluntarjoajalta ja pyörittää SCP:SL-palvelinta siellä.\n- Voit vuokrata SCP:SL-palvelimen suoraan SCP:SL-palvelimia tukevalta pelipalvelintarjoajalta (esim. Terabitiltä).\n\nPaina alla olevia linkkejä saadaksesi lisätietoja.\nVoit myös kysyä apua meidän tekniseltä tuelta (linkki Discordiimme löytyy päävalikosta).
+LUO KUITENKIN
+LUE LISÄÄ
+VUOKRAA PELIPALVELIN
+PERUUTA
+sekunti
+pelin pelaamisesta!
+Väläytä tehtäväpalkkia syntyessä
+Ympäristön sulkeminen
+Tilavuusvalot
+Hehku
+Näytä tekstitykset
+Peliopas
+Vuokraa pelipalvelin
+<color="red>EPILEPSIAVAROITUS: LUE ENNEN PELAAMISTA!</color>\nPieni osa ihmisistä saattaa saada epilepsiakohtauksen altistuessaan tietynlaisille valokuvioille tai välkkyville valoille. Altistuminen tietyille kuvioille tai kuville tietokoneen näytöllä tai videopelejä pelatessa saattaa laukaista epilepsiakohtauksen näille henkilöille. Jotkin olosuhteet saattavat tuoda esille aikaisemmin huomaamattomia epilepsiaoireita vaikkei henkilöllä olisikaan kokemusta aikaisemmista kohtauksia taikka epilepsiasta.\nJos sinulla tai perheessäsi jollakin on epilepsia, ota yhteys lääkääriisi ennen pelin pelaamista. Jos kärsit yhdestäkään seuraavasta oireesta kuten – huimauksesta, näön muutoksista, silmien tai lihasten nykimisestä, tajunnan menetyksestä, hämmennyksestä, tahattomista liikkeistä tai kouristuksista katsoessasi videoita tai pelatessasi videopelejä – lopeta pelaaminen VÄLITTÖMÄSTI ja ota yhteys lääkäriisi ennen pelaamisen jatkamista.
+PAINA MITÄ TAHANSA NÄPPÄINTÄ JATKAAKSESI
+ÄLÄ NÄYTÄ UUDELLEEN
+Jatka
+Palvelimen tiedot
+Katkaise yhteys

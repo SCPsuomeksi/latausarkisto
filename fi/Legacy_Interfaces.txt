@@ -1,0 +1,19 @@
+ANNA KÄSKYJÄ
+SEURAA KÄSKYJÄ
+SAMA ARVO
+D-luokan henkilöstöä pakeni
+Tutkijoita selviytyi
+SCP:t tappoivat
+Tuhotut SCP-kohteet
+Alfa-ydinkärki
+Räjäytetty
+Käyttämätön
+Seuraava kierros alkaa [time] sekunnissa.
+ERIKOISKYKY
+LUO VAJOAMA
+KÄYTÄ VAJOAMAA
+KUOLIT
+Sinut tappoi
+ollessaan
+Passiivi
+(piilotettu)

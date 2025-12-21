@@ -1,0 +1,32 @@
+MTF:n yksikkö Epsilon-11, nimeltään [designation], on saapunut laitokselle.<split>Elossa olevaa henkilökuntaa kehotetaan noudattamaan yleisiä evukointikäytäntöjä, kunnes MTF-yksikkö saapuu luoksenne.<split>
+Odotetaan [count] SCP-olion uudelleeneristämistä.
+Odotetaan 1 SCP-olion uudelleeneristämistä.
+Laitos pitää edelleen sisällään merkittävän turvallisuusuhkan – noudattakaa varovaisuutta.
+tuhottu onnistuneesti. Aiheuttaja: tuntematon.
+tuhottu onnistuneesti. Aiheuttaja: SCP-[scp].
+tuhottu onnistuneesti. Aiheuttaja: automaattiset turvajärjestelmät.
+tuhottu onnistuneesti. Aiheuttaja: Alfa-ydinkärki.
+eristetty onnistuneesti. Eristäjä: tutkijat.
+eristetty onnistuneesti. Eristäjä: D-luokan vangit.
+eristetty onnistuneesti. Eristäjä: Kaaoskapinalliset.
+SCP-[scp]
+eristetty onnistuneesti. Eristäjä: tuntematon.
+eristetty onnistuneesti. Eristäjä: yksikkö [designation].
+menetetty kevyen eristyksen vyöhykkeen puhdistuksessa.
+[current]/[max] generaattoria on käynnistetty onnistuneesti.
+<split>Kaikki generaattorit on käynnistetty onnistuneesti.
+Sähköjärjestelmien ylikuormitus tapahtuu: 3... 2... 1...
+Laitos on taas toiminnallisessa tilassa.
+Huomio henkilökunnalle.<split>Kevyen eristyksen vyöhykkeen kemiallinen puhdistus alkaa 15 minuutin kuluttua.<split>Kaikki eloperäiset ainekset on poistettava niiden tuhoutumisen välttämiseksi.
+Varoitus! Kevyen eristyksen vyöhykkeen kemiallinen puhdistus alkaa [time] minuutin kuluttua.
+Varoitus! Kevyen eristyksen vyöhykkeen kemiallinen puhdistus alkaa 1 minuutin kuluttua.
+Varoitus! Kevyen eristyksen vyöhykkeen kemiallinen puhdistus alkaa 30 sekunnin kuluttua.<split>Jokaisen tarkastuspisteen ovet ovat avattu pysyvästi. Evakuoikaa välittömästi.
+Pääsy kevyen eristyksen vyöhykkeelle on estetty ja sen kemiallinen puhdistus voi nyt alkaa.<split>Eloperäisten ainesten poistaminen on alkanut.
+HÄTÄTILAN ITSETUHORÄJÄYTYS KÄYNNISTETTY.<split>LAITOKSEN MAANALAINEN OSA ON ASETETTU TUHOUTUMAAN [time] SEKUNNIN KULUTTUA.
+ITSETUHORÄJÄYTYS PERUUTETTU.
+HÄTÄTILAN ITSETUHORÄJÄYTYSTA JATKETTU. AIKAA JÄLJELLÄ [time] SEKUNTIA.
+tuhottu onnistuneesti. Aiheuttaja: vaahtokarkkimies.
+Nine-Tailed Fox -vahvistusyksikkö on saapunut laitokselle.<split>
+Huomio henkilökunnalle. A-portilla on havaittu [number] kaaoskapinallisjoukkoa.<split>Tappavan voiman käyttö valtuutettu.
+A-portilla on havaittu [number] vihamielistä vahvistusjoukkoa.<split>Puolustussuunnitelma: päivitetty.
+LAITOKSEN TAKAISINSAAMINEN ON EPÄONNISTUNUT – KUOLLEEN MIEHEN KYTKIN AKTIVOIITU.<split>LAITOKSEN MAANALAINEN OSA <b>TUHOUTUU</b> [time] SEKUNNIN KULUTTUA.

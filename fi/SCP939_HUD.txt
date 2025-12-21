@@ -1,0 +1,48 @@
+Syöksy [key_jump]- tai [key_attack] -näppäimestä.
+Esikuuntele ääntä (vain sinä kuulet sen)
+-
+Poista ääni (pidä pohjassa)
+Toista ääni (jokainen voi kuulla sen)
+SCP-939 tappoi sinut ja otti äänesi itselleen!
+Jos et halua ääntäsi käytettävän, voit ottaa tämän ominaisuuden pois käytöstä.
+Muista valintani
+Poista
+Selvä
+Lisää tietoa
+SCP-939:llä on kyky, jolla se tallentaa puheesi viimeiset neljä sekuntia. Se voi toistaa näitä tallenteita houkutellakseen uhreja esiin.\nTallenteet katoavat automaattisesti, jos poistut palvelimelta, jos SCP-939 kuolee tai kierroksen käynnistyessä uudelleen. Tämän ominaisuuden käytöstä poistaminen pyyhkii automaattisesti kaikki tallenteet sinusta.
+Pilveä ei voi sijoittaa tähän paikkaan.
+Pilven vähimmäiskokoa ei saavutettu. Pidä näppäintä pohjassa pitempään.
+Work together with your <color=#F00>SCP teammates</color>. You are blind and can only see humans in close proximity, but are able to track them through audio blips. Use your abilities to ambush, misdirect, and track your targets.
+Claw:Press [key] to swipe your claws at a nearby human, dealing moderate damage. This damage is mitigated by armor.
+Focus:Hold [key] to enter a prone state. You cannot move while prone, but gain the ability to Lunge forward by pressing LMB. Lunging at a human will deal massive damage, often instantly killing them.
+Amnestic Cloud:Hold [key] to deploy an invisible Amnestic Cloud. Humans that walk into the cloud will be unable to see you until you attack them.
+With Many Voices:You are able to mimic various sounds, including the voices of your victims, via a menu that can be opened by pressing [Tab]. Use this to fool humans and lead them into a trap.
+Ultrasensitive:You are blind and can only see within a short radius of you. However, you can see blips produced by humans when they make sound. Use these blips to locate your targets.
+-
+Aseta matkimispiste
+<align="center"><size=24>Muuta matkimisäänet tulemaan\nasetetusta sijainnista</size></align>
+Poista matkimispiste
+<align="center"><size=24>Muuta matkimisäänet tulemaan\nomasta sijainnistasi</size></align>
+Matkimispiste asetettu!
+Matkimispiste poistettu!
+Matkimispiste poistettu. Menit liian kauas.
+Viedyt äänet
+-
+Ympäristöäänien matkiminen
+-
+(Käyttörajoitus: [time] s)
+-
+Ihmis- ja SCP-äänet
+Ampumisäänet
+Esineäänet
+-
+-
+Roolit
+Pikanäppäin  [key]
+Toista ääni (jokainen voi kuulla sen)
+Lopeta toisto
+Leikkaa tallennetta vetämällä
+Merkitse suosikiksi. Suosikiksi merkittyjä tallenteita voi toistaa pikanäppäimestä.
+Järjestä tallenteita vetämällä
+Veit uhrisi äänet!
+Sprint:Hold [key] to consume stamina and move at a faster pace. Stamina regenerates when you stop sprinting. Be mindful of its usage!

@@ -1,0 +1,30 @@
+<size=27.5>Tapa kaikki ihmiset.\nÄlä anna heidän paeta.\nToimi toisten <color=#F00>SCP:iden</color> kanssa.<color=#FFFF00>\nPidä [Tähtää]-näppäintä pohjassa, kun sinua katsotaan teleportataksesi pienen matkan.\nTeleporttaa ihmisten päälle tappaaksesi heidät.\nVoit tappaa ihmisen [Hyökkää/Ammu]-näppäimestä, jos sinua ei katsota.</color></size>
+Pakene laitoksesta.\nToimi <color=#008F1e>Kaaoskapinallisten</color> kanssa.\nVaro muita ryhmiä.
+Synnyt uudelleen pian.
+Tapa kaikki ihmiset.\nÄlä anna heidän paeta.\nToimi toisten <color=#F00>SCP:iden</color> kanssa.<color=#FFFF00>\nVoit kävellä ovien läpi.\n[Hyökkää/Ammu]-näppäimestä teet vahinkoa ja vedät ihmiset tasku-ulottuvuuteesi.\nVajoa lattian alle [Juokse]-näppäimestä palauttaaksesi uusiutuvaa suojaasi.</color>
+Ota laitos haltuun vihamielisiltä joukoilta.\nToimi <color=#5B6370>laitosvartioiden</color> ja toisten <color=#0096FF>MTF-sotilaiden</color> kanssa.
+<size=26.5>Tapa kaikki ihmiset.\nÄlä anna heidän paeta.\nToimi toisten <color=#F00>SCP:iden</color> kanssa.<color=#FFFF00>\nTee vahinkoa ihmisiin [Hyökkää/Ammu]-näppäimestä ja aiheuta kuolema toisella osumalla.\nHerätä hiljattain kuolleet ihmiset puolellesi [Käytä]-näppäimestä.</color></size>
+Pakene laitoksesta.\nToimi <color=#5B6370>laitosvartioiden</color> ja <color=#0096FF>MTF-sotilaiden</color> kanssa.\nVaro muita ryhmiä.
+Tapa kaikki ihmiset.\nÄlä anna heidän paeta.\nToimi toisten <color=#F00>SCP:iden</color> kanssa.
+Valloita laitos ja tapa <color=#0096FF>SCP-järjestön henkilökunta</color>.\nToimi toisten <color=#008F1E>Kaaoskapinallisten</color> kanssa.
+Tapa kaikki ihmiset.\nÄlä anna heidän paeta.\nToimi toisten <color=#F00>SCP:iden</color> kanssa.
+Tapa kaikki ihmiset.\nÄlä anna heidän paeta.\nToimi toisten <color=#F00>SCP:iden</color> kanssa.<color=#FFFF00>\nHyökkää ihmisen kimppuun [Hyökkää/Ammu]-näppäimestä.</color>
+Ota laitos haltuun vihamielisiltä joukoilta.\nToimi <color=#5B6370>laitosvartioiden</color> ja toisten <color=#0096FF>MTF-sotilaiden</color> kanssa.
+Ota laitos haltuun vihamielisiltä joukoilta.\nToimi <color=#5B6370>laitosvartioiden</color> ja toisten <color=#0096FF>MTF-sotilaiden</color> kanssa.
+Ota laitos haltuun vihamielisiltä joukoilta.\nToimi <color=#5B6370>laitosvartioiden</color> ja toisten <color=#0096FF>MTF-sotilaiden</color> kanssa.
+Suorita tavoitteesi loppuun noudattamalla tehtäviä.
+Auta <color=#FFFF7CFF>tutkijoita</color> pakenemaan.\nToimi <color=#0096FF>MTF-sotilaiden</color> kanssa.\nTapa kaikki muut.
+Tapa kaikki ihmiset.\nÄlä anna heidän paeta.\nToimi toisten <color=#F00>SCP:iden</color> kanssa.
+Tapa kaikki ihmiset.\nÄlä anna heidän paeta.\nToimi toisten <color=#F00>SCP:iden</color> kanssa.
+Valloita laitos ja tapa <color=#0096FF>SCP-järjestön henkilökunta</color>.\nToimi toisten <color=#008F1E>Kaaoskapinallisten</color> kanssa.
+Valloita laitos ja tapa <color=#0096FF>SCP-järjestön henkilökunta</color>.\nToimi toisten <color=#008F1E>Kaaoskapinallisten</color> kanssa.
+Valloita laitos ja tapa <color=#0096FF>SCP-järjestön henkilökunta</color>.\nToimi toisten <color=#008F1E>Kaaoskapinallisten</color> kanssa.
+-
+-
+Tapa kaikki ihmiset.\nÄlä anna heidän paeta.\nToimi toisten <color=#F00>SCP:iden</color> kanssa.
+-
+Tapa kaikki mikä liikkuu.\nJäljitä uhrisi.\nToimi <color=#FF59CA>parvesi</color> kanssa.
+Tapa kaikki mikä liikkuu.\nJäljitä uhrisi.\nToimi <color=#FF59CA>parvesi</color> kanssa.
+Tapa kaikki ihmiset.\nÄlä anna heidän paeta.\nToimi toisten <color=#F00>SCP:iden</color> kanssa.
+Ota laitos haltuun vihamielisiltä joukoilta.\nToimi <color=#5B6370>laitosvartioiden</color> ja toisten <color=#0096FF>MTF-sotilaiden</color> kanssa.
+Valloita laitos ja tapa <color=#0096FF>SCP-järjestön henkilökunta</color>.\nToimi toisten <color=#008F1E>Kaaoskapinallisten</color> kanssa.

@@ -1,0 +1,59 @@
+0~Siivoajan avainkortti
+1~Tutkijan avainkortti
+2~Tutkimusvalvojan avainkortti
+3~Vyöhykejohdon avainkortti
+4~Vartijan avainkortti
+5~MTF-sotamiehen avainkortti
+6~Eristysinsinöörin avainkortti
+7~MTF-sotilaan avainkortti
+8~MTF-kapteenin avainkortti
+9~Laitosjohdon avainkortti
+10~Kaaoskapinallisten pääsylaite
+11~O5-tason avainkortti
+12~Radio~Mahdollistaa viestinnän pitkien etäisyyksien välillä. Sen kantamaa voi säätää.
+13~COM-15
+14~Ensiapupakkaus~Parantaa haavasi.
+15~Taskulamppu~Tulkoon valo!
+16~Micro H.I.D.~Poikkeavuuksien tuhoamiseen suunniteltu raskas sähköpurkauskone.
+17~SCP-500~Palauttaa välittömästi kaiken terveyden ja parantaa useimmat vaivat.~Ihmelääke
+18~SCP-207~Haitallisesti lisää motorisia taitoja.~Kolapullot
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Painekranaatti~Merkittävää vahinkoa tekevä räjähde. Räjähtää hetken kuluttua heittämisen jälkeen.
+26~Tainnutuskranaatti~Sokaisee ja harhauttaa vihollisiasi. Räjähtää hetken kuluttua heittämisen jälkeen.
+30~COM-18
+31~SCP-018~Erittäin tehokkaasti pomppimaan kykenevä superpallo. Kimpoaa tappavasti korkeissa nopeuksissa.~Superpallo
+32~SCP-268~Puettuna tekee sinut väliaikaisesti näkymättömäksi, ellet keskeytä sitä käyttämällä jotakin.~Sivuuttamisen lakki
+33~Adrenaliini~Tarjoaa väliaikaisen lisän terveyteen ja jaksavuuteen.
+34~Kipulääke~Palauttaa terveyttä hitaasti ajan myötä.
+35~Kolikko~Et tiedä miksi haluaisit kantaa tätä mukanasi...
+36~Kevyt suojaliivi
+37~<size=27>Keskiraskas\n<voffset=1em>suojaliivi ja kypärä</size></voffset>
+38~<size=27>Raskas\n<voffset=1em>suojaliivi ja kypärä</size></voffset>
+39~.44 revolveri
+40~AK
+41~Haulikko
+42~Karkkipussi~Pussi sisältää seuraavat karkit:
+43~SCP-2176~Ihan oma haamuvalosi! Varoitus: särkyvä. Häiritsee elektroniikkaa hajotessaan.~Haamuvalo™
+44~SCP-244-A~Muinainen vaasi, kylmä käsitellä. Luo suuren pilven jäätävää sumua maahan asetettaessa.~Purkki jäistä sumua
+45~SCP-244-B~Muinainen vaasi, kylmä käsitellä. Luo suuren pilven jäätävää sumua maahan asetettaessa.~Purkki jäistä sumua
+46~SCP-1853~Parantaa näppäryyttä ja aseenkäsittelytaitoja henkesi ollessa vaarassa.~Suorituskyvyn parantaja
+47~3-X-hiukkashäiritsin~Outo ase, joka ampuu voimakkaita, palasiksi hajottavia energiasäteitä.
+48~COM-45
+49~SCP-1576~Mahdollistaa viestinnän kuolleiden kanssa hetkellisesti. Voidaan käyttää uudelleen jonkin ajan kuluttua.~Edisionilainen puhelin tuonpuoleiseen
+50~Jailbird~Outo epävakaa nuija, jolla voit lyödä vihollisia tai rynnätä niitä päin tehden paljon vahinkoa.
+51~Epäkola~SCP-914:lla tehdyn kokeen tulos. Hyväksi terveydelle, haitaksi motorillisille taidoille. Pelastaa henkesi kiipelissä.~tollupaloK
+52~FR-MG-0
+53~A7
+54~Lyhty~Klassinen öljylamppu, johon on kaiverrettu nimi "Daniel".
+55~SCP-1344~Muunnellut suojalasit, joiden avulla voit havaita muiden pelaajien sijainnit seinien läpi. Kun olet laittanut ne päälle, et saa enää ikinä ottaa niitä pois!~Silmäänpistävät suojalasit
+56~Lumipallo
+57~Hiili
+58~Hiili?
+59~Nauhuri?~Sisältää nimeämättömän nauhan. Älä toista sitä, ole kiltti.
+61~Kulkulupa pinnalle~Kertakäyttöinen kulkulupa uloskäyntiporttien avaamiseen.
+62~SCP-127
+68~SCP-1509~Kohtalaista vahinkoa tekevä teräase. Ihmisen tappaminen sillä herättää henkiin tiimitoverin.~Jälleensyntymisen teräase
+69~SCP-021-J~Tästä vesipullopsta säteilee pimeää, vaarallsita energiaa. Sinusta tuntuu, että sitä saattaa olla mahdonta eristöä. Uskallatko juoda sen?~Ilkeä :(
