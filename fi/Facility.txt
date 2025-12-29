@@ -21,7 +21,7 @@ Kirkkauden nostaminen <b>huonontaa pelin tunnelmaa merkittävästi</b>.\nYritä 
 SCP-079 ON LUKINNUT OVEN
 Kokonäyttötila
 Haluatko varmasti poistua palvelimelta?
-Perusasetukset. Täysi lista asetuksista löytyy päävalikosta.
+Perusasetukset. Täysi lista asetuksista on päävalikosta.
 ODOTETAAN PELAAJIA
 YHTEENVETO
 JATKA
@@ -33,7 +33,7 @@ OLET
 Pakenemisaika: [escape_minutes] minuuttia ja [escape_seconds] sekuntia
 Odota [time] ennen kuin voit käyttää esinettä [item] uudelleen.
 Saat lisätietoja <color=yellow><b>F1</b></color>-näppäimestä.
-Sinut on pidätetty.\n<size=40>Seuraa käskyjä tai kysy tiimitovereiltasi apua.</size>
+Sinut on pidätetty.\n<size=40>Noudata käskyjä tai kysy apua tiimitovereiltasi.</size>
 Nine-Tailed Fox otti sinut kiinni.\nNyt kun laitoksessa on yksi uhka vähemmän, he pystyivät vahvistautumaan yhdellä.
 Kaaoskapinalliset ottivat sinut vangiksi.\nHe pystyivät saamaan etuaseman antamasi tiedon avulla.
 KIERROS ALKAA: <color=yellow>{0}</color>s

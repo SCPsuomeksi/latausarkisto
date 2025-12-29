@@ -1,4 +1,4 @@
-Work together with your <color=#F00>SCP teammates</color>. You begin in a Docile state, unable to attack. Punish humans that observe you by unleashing powerful attacks during your Enraged state.
+Tee yhteistyötä <color=#F00>SCP-tiimisi</color> kanssa. Aloitat rauhoittuneena, etkä voi hyökätä. Rankaise sinua katsoneita ihmisiä päästämällä raivosi valloilleen ja hyökkää heidän kimppuunsa raa'alla tavalla.
 Try Not to Cry:When in the Docile State, press [key] on a flat wall or door to lean against it. While leaning, your cries are hushed and your Hume Shield regeneration rate is doubled.
 Melee Attack:When in the Enraged state, press [key] to unleash a strong melee attack on nearby humans and doors. This attack cannot damage humans who have not looked at your face.
 Charge:When in the Enraged state, press [key] to propel yourself at extreme speeds in a straight line. This attack deals massive damage to humans.

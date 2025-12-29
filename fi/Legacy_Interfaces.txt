@@ -1,5 +1,5 @@
 ANNA KÄSKYJÄ
-SEURAA KÄSKYJÄ
+NOUDATA KÄSKYJÄ
 SAMA ARVO
 D-luokan henkilöstöä pakeni
 Tutkijoita selviytyi
@@ -8,12 +8,12 @@ Tuhotut SCP-kohteet
 Alfa-ydinkärki
 Räjäytetty
 Käyttämätön
-Seuraava kierros alkaa [time] sekunnissa.
+Seuraava kierros alkaa [time] sekunnin kuluttua.
 ERIKOISKYKY
 LUO VAJOAMA
 KÄYTÄ VAJOAMAA
 KUOLIT
 Sinut tappoi
 ollessaan
-Passiivi
+Passiivinen
 (piilotettu)

@@ -11,8 +11,8 @@ Kieltäydy uusista henkiin herättämisistä [key]-näppäimestä.
 Kohdetta ei löytynyt.
 Terveytesi on jo täynnä.
 Tätä ruumista syödään jo.
-Work together with your <color=#F00>SCP teammates</color>. Use your abilities to raise and maintain a horde of reanimated corpses, turning the tide of the game in your favor.
-Work together with your <color=#F00>SCP teammates</color>. Follow <color=#F00>SCP-049’s</color> command and take down your targets, creating fresh bodies to join the horde.
+Tee yhteistyötä <color=#F00>SCP-tiimisi</color> kanssa. Käytä kykyjäsi kasvattamaan ja ylläpitämään henkiin herätetyistä ruumiista koostuvaa laumaasi ja käännä pelin suunta SCP:iden eduksi.
+Tee yhteistyötä <color=#F00>SCP-tiimisi</color> kanssa. Noudata <color=#F00>SCP-049:n</color> käskyjä ja tapa ihmisiä luodaksesi tuoreita ruumiita lauman jatkoksi.
 Cardiac Attack:Press [key] on a nearby human to inflict them with Cardiac Arrest, eventually resulting in their death if medical aid is not administered in time. If the victim is already suffering from Cardiac Arrest, this attack will instantly kill them.
 Good Sense of the Doctor:Press [key] on a target in your line of sight to mark them, increasing your movement speed and tracking capabilities.
 The Doctor’s Call:Press [key] to generate Hume Shield for nearby SCP-049-2 instances.

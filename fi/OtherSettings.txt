@@ -1,23 +1,23 @@
 Palvelinpuolen käyttäjäseuranta
 Salli
 Kiellä (DNT)
-If denied, forbids verified servers to use your data (IP address, user ID, etc) for purposes not related to the server security. Some server-specific features (like leaderboards, leveling systems, and similar) will not work correctly.
+Jos seurantaa ei sallita, palvelimia pyydetään olemaan käyttämättä tietojasi (kuten IP-osoitetta, käyttäjätunnusta, jne.) muuhun kuin palvelimen turvallisuuden kannalta oleellisiin asioihin. Jotkin palvelinkohtaiset ominaisuudet (kuten pistetaulukot, tasojärjestelmät ja vastaavat) eivät toimi kunnolla.
 Jaa pelitoimintasi
-Allows platforms (Steam and Discord) to display more information regarding your current in-game status.
+Mahdollistaa Steamin ja Discordin näyttää lisätietoja nykyisestä pelitilastasi.
 Steam-aulan avoimuus
-Defines how other users can join the server through your Steam profile.
+Määrittää, miten muut pelaajat voivat liittyä olemallasi palvelimelle Steam-profiilisi kautta.
 Puhekeskustelun tietosuoja-asetukset
 Steam-profiili pelaajaluettelossa
-Enables players to view your Steam profile by clicking an icon on the in-game player list.
+Mahdollistaa pelaajien nähdä Steam-profiilisi painamalla kuvaketta pelaajaluettelossa.
 Näytä
 Piilotettu
 Vain kutsutut
 Julkinen
-Changes will take place the next time you connect to a server (or on round restarts)
+Muutokset tulevat voimaan seuraavan kerran, kun liityt palvelimelle tai kun kierros käynnistyy uudelleen.
 Vain kaverit
 Yksityisyys
 Mieltymykset SCP:nä syntymiseen
-Spawn preferences are used to improve automatic assignment of SCP roles among teammates. Please note it does not affect your chances of becoming an SCP instead of a human.
+Mieltymysasetukset vaikuttavat siihen, miten SCP-roolit jaetaan SCP-tiimin kesken. Huomaa, että tämä asetus ei vaikuta mahdollisuuteesi olla SCP ihmisen sijasta.
 Arvonimimieltymys
 Ei mieltymystä
 Suosi pelinlaajuista arvonimeä
@@ -25,6 +25,6 @@ Suosi palvelimen arvonimeä
 Pelinlaajuisen arvonimen näkyvyyden mieltymys
 Palvelimen arvonimen näkyvyyden mieltymys
 Kieltäydy SCP:nä olemisesta
-If enabled, you will be unable to spawn as an SCP. However, in the event that there are not enough players opted into SCP, you may still spawn in as one.
+Jos tämä asetus on käytössä, et voi syntyä SCP:nä, ellei palvelimella ole tarpeeksi halukkaita SCP:nä pelaamiseen.
 Älä kieltäydy
 Kieltäydy

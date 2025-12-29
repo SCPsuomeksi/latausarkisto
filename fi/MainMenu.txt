@@ -93,7 +93,7 @@ Lisää pehmeät varjot kulmiin ja ahtaisiin paikkoihin antaakseen näkymälle e
 Antaa näkymälle enemmän syvyyttä korkealla suorituskyvyn kustannuksella.
 Antaa valoille enemmän syvyyttä käyttämällä valojen voimakkuuteen perustuvaa hehkua.
 Näytä tekstitykset CASSIEn ilmoituksille.
-Väläyttää tehtävä palkkia, kun synnyt uudelleen pelin ollessa taustalla.
+Väläyttää tehtäväpalkkia, kun synnyt uudelleen pelin ollessa taustalla.
 Pehmentää reunoja ja poistaa visuaalisia vääristymiä.
 Tahdistaa pelin kuvataajuuden näyttösi virkistystaajuuteen poistaakseen kuvan repeilyä.
 Pinnoille heijastetut tekstuurit, kuten luodinreiät ja veriroiskeet.

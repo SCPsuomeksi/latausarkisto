@@ -35,7 +35,7 @@ MERKITSE SIJAINTI ([cost])
 MERKITSET LIIAN NOPEASTI
 KAMERAN VAIHTAMINEN EPÄONNISTUI
 SIGNAALI MENETETTY
-UUDELLEENYHDISTETÄÄN (Odota noin [time] sekuntia)
+UUDELLEENYHDISTETÄÄN\n(Odota noin [time] sekuntia)
 LAUKAISE TESLAPORTTI ([cost])
 TESLAPORTIN LAUKAISUN USEUSRAJOITUS
 $Pääsytaso [tier]$ – AVATTU
@@ -63,7 +63,7 @@ SIVIILEITÄ
 SOTILAITA
 KÄYTÄ KAIUTINTA
 HISSIN KÄYTTÖOIKEUS ESTETTY
-Assist your <color=#F00>SCP teammates</color>. Use facility systems against humans to help your team secure kills and provide vital intel. Level up your Access Tier by performing these actions to unlock new abilities.
+Ole apuna <color=#F00>SCP-tiimillesi</color>. Käytä laitoksen järjestelmiä ihmisiä vastaan auttaaksesi tiimiäsi saamaan tappoja ja tarjotaksesi tärkeää tiedustelutietoa. Paranna pääsytasoasi suorittamalla näitä toimintoja, jolloin avaat uusia kykyjä.
 Virtually Indestructible:You can only be defeated if all of your SCP teammates are killed, or if humans engage all three generators and activate the Facility Overcharge. Rooms with active generators are highlighted on your map. Your teammates must deactivate them to prevent you from being shut down.
 Auxiliary Power:Using your abilities consumes Auxiliary Power (AP). AP is visible as a meter in the bottom right of your display and passively regenerates. You can view available abilities and their AP cost at the top right of your display.
 Deep Learning:Assisting your teammates in killing humans will grant you Experience (EXP). Gaining EXP grants progress towards the next Access Tier, which will grant you new abilities. EXP gains and level increases will be shown in the bottom left of your display.

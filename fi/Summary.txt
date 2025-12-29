@@ -13,7 +13,7 @@ Alfa-ydinkärjen räjähdys tuhosi [summary_warhead_kills] elämänmuotoa.
 Alfa-ydinkärkeä ei räjäytetty tämän tehtävän aikana.
 Tehtävä kesti [summary_round_minutes] minuuttia ja [summary_round_seconds] sekuntia.
 [summary_scp_terminated] SCP:istä tuhottiin
-Seuraava kierros alkaa [summary_next_round_countdown] sekunnissa.
+Seuraava kierros alkaa [summary_next_round_countdown] sekunnin kuluttua.
 SCP:t tappoivat [summary_scpfrags] ihmistä.
 <size=125>FLAMINGOT VOITTIVAT</size>
 Kaikki muut ryhmät ovat tapettu. Flamingojen täysi voitto on saavutettu.

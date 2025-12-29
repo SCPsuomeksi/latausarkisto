@@ -9,10 +9,10 @@ Muista valintani
 Poista
 Selvä
 Lisää tietoa
-SCP-939:llä on kyky, jolla se tallentaa puheesi viimeiset neljä sekuntia. Se voi toistaa näitä tallenteita houkutellakseen uhreja esiin.\nTallenteet katoavat automaattisesti, jos poistut palvelimelta, jos SCP-939 kuolee tai kierroksen käynnistyessä uudelleen. Tämän ominaisuuden käytöstä poistaminen pyyhkii automaattisesti kaikki tallenteet sinusta.
+SCP-939:llä on kyky, jolla se tallentaa puheesi viimeiset neljä sekuntia. Se voi toistaa näitä tallenteita houkutellakseen uhreja esiin.\nTallenteet katoavat automaattisesti, kun poistut palvelimelta, jos SCP-939 kuolee tai kun kierros käynnistyy uudelleen. Tämän ominaisuuden käytöstä poistaminen pyyhkii automaattisesti kaikki tallenteet sinusta.
 Pilveä ei voi sijoittaa tähän paikkaan.
 Pilven vähimmäiskokoa ei saavutettu. Pidä näppäintä pohjassa pitempään.
-Work together with your <color=#F00>SCP teammates</color>. You are blind and can only see humans in close proximity, but are able to track them through audio blips. Use your abilities to ambush, misdirect, and track your targets.
+Tee yhteistyötä <color=#F00>SCP-tiimisi</color> kanssa. Olet sokea ja havaitset ihmiset vasta läheltä, mutta pystyt jäljittämään heitä äänien avulla. Käytä kykyjäsi jäljittääksesi, harhauttaaksesi ja lopulta yllättääksesi uhrisi.
 Claw:Press [key] to swipe your claws at a nearby human, dealing moderate damage. This damage is mitigated by armor.
 Focus:Hold [key] to enter a prone state. You cannot move while prone, but gain the ability to Lunge forward by pressing LMB. Lunging at a human will deal massive damage, often instantly killing them.
 Amnestic Cloud:Hold [key] to deploy an invisible Amnestic Cloud. Humans that walk into the cloud will be unable to see you until you attack them.

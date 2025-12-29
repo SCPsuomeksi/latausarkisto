@@ -1,7 +1,7 @@
 MTF:n yksikkö Epsilon-11, nimeltään [designation], on saapunut laitokselle.<split>Elossa olevaa henkilökuntaa kehotetaan noudattamaan yleisiä evukointikäytäntöjä, kunnes MTF-yksikkö saapuu luoksenne.<split>
 Odotetaan [count] SCP-olion uudelleeneristämistä.
 Odotetaan 1 SCP-olion uudelleeneristämistä.
-Laitos pitää edelleen sisällään merkittävän turvallisuusuhkan – noudattakaa varovaisuutta.
+Laitoksessa vallitsee edelleen merkittävä turvallisuusuhka – noudattakaa varovaisuutta.
 tuhottu onnistuneesti. Aiheuttaja: tuntematon.
 tuhottu onnistuneesti. Aiheuttaja: SCP-[scp].
 tuhottu onnistuneesti. Aiheuttaja: automaattiset turvajärjestelmät.

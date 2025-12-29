@@ -75,7 +75,7 @@ Poistettu käytöstä
 sekuntia
 Ruumiiden poistoaika
 Näytä Steam-profiili
-Antaa pelaajien nähdä Steam-profiilisi painamalla kuvaketta pelaajaluettelossa.
+Mahdollistaa pelaajien nähdä Steam-profiilisi painamalla kuvaketta pelaajaluettelossa.
 Älä jäljitä (DNT)
 Estää palvelinta käyttämästä tietojasi (kuten IP-osoitetta, käyttäjätunnusta jne.) muihin kuin palvelimen turvallisuutta vaativiin asioihin.
 Grafiikkarajapinta

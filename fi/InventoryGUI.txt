@@ -9,7 +9,7 @@ PUDOTA:
 Kypärän suojaus
 Liivin suojaus
 Jaksamisen kuluminen
-Liikkumisnopeuus
+Liikkumisnopeus
 Esinerajoitukset:
 Patruunarajoitukset:
 [amount] yhteensä

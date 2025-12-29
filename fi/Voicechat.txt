@@ -1,22 +1,22 @@
-MUTED BY ADMIN
-GLOBALLY MUTED
-UNAUTHENTICATED
-ADJUST PRIVACY SETTINGS
-Your microphone is disabled due to your privacy settings.
+MYKISTETTY YLLÄPITÄJÄN TOIMESTA
+MYKISTETTY PELINLAAJUISESTI
+KÄYTTÄJÄÄ EI OLE TODENNETTU
+MUUTA TIETOSUOJA-ASETUKSIA
+Mikrofonisi ei ole käytössä tietoturva-asetustesi takia.
 <size=32>Puhekeskustelun\ntietosuoja-asetukset</size>
-This game uses voice chat. Using the push-to-talk keys (default "Q" and "V") will capture your microphone input and transmit it to other users connected to the server.\nCertain game features may temporarily store short samples of your transmissions, which will be automatically erased after disconnecting from the server.
-Reject all (disable microphone capture)
-Personalize settings
-Accept all
+<align="center"><line-height=0em>Tässä pelissä on puhekeskustelu. Käyttämällä puhenäppäimiä\n(oletusnäppäimet "Q" ja "V") muut palvelimella olevat pelaajat voivat\nkuulla äänesi.</line-height>\nJotkin peliominaisuudet saattavat tallentaa väliaikaisesti lyhyitä<line-height=0em>\ntallenteita puheestasi, jotka kuitenkin katoavat automaattisesti\npoistuessasi palvelimelta.</line-height></align>
+Kiellä kaikki (ota mikrofonin käyttö pois käytöstä)
+Mukauta asetuksia
+Hyväksy kaikki
 Hyväksy
 Kieltäydy
 Mikrofonin käyttö
-Allow the game to capture your microphone and transmit it to users when push-to-talk keys are held. A microphone icon will be displayed at the bottom of the screen, indicating active transmission. The game will never transmit, or use your microphone without the indicator being visible.
+Mahdollistaa pelin lähettää ääntäsi muille pelaajille mikrofonistasi, kun painat puhenäppäintä.\nKun muut pelaajat voivat kuulla äänesi, näytön alareunassa näkyy mikrofonikuvake. Peli ei\nkoskaan lähetä ääntäsi tai käytä mikrofoniasi ilman, että tämä kuvake näkyy.
 Lyhyet tallenteet
-Allow game mechanics to use short recordings of your voice. This includes SCP-939's "With Many Voices" ability, which can record and play back short voice samples of killed players. All recordings are discarded the moment you leave the server, or once the round restarts.
+Mahdollistaa joidenkin peliominaisuuksien käyttää lyhyitä tallenteita puheestasi. Tähän kuuluu esimerkiksi SCP-939:n matkimiskyky, jolla se voi tallentaa ja toistaa lyhyitä pätkiä tappamiensa pelaajien puheesta. Nämä tallenteet katoavat automaattisesti, kun poistut palvelimelta tai kun kierros käynnistyy uudelleen.
 Käytä asetuksia
-Return
-Press "[key]" and navigate to "Settings" to adjust.
+Palaa
+Muuta asetuksia painamalla "[key]"-näppäintä ja menemällä asetuksiin.
 Mykistä elossa olevat pelaajat
 Mykistä muut katsojat
 Mykistä kierrosta edeltävä aula

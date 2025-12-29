@@ -14,7 +14,7 @@ Alfa-ydinkärki tappaa jokaisen laitoksessa olevan räjähtäessään. Voit käy
 Saapumisvyöhykkeen kuulutushuoneesta voi kuuluttaa viestin laitoksen kaiuttimista, jonka jokainen pelaaja kuulee.
 Alfa-ydinkärjen räjäyttäminen voidaan peruuttaa sen huoneesta raskaan eristyksen vyöhykkeeltä.
 Voit heittää esineitä T-näppäimestä (oletusnäppäin). Tällä tavalla voit avata avainkortillisia ovia etänä tai rikkoa ikkunoita.
-Pääsy kevyen eristyksen vyöhykkeelle estetään 15 minuutin kuluttua,\njonka jälkeen jokainen sinne jäänyt kuolee. Pakene vielä kun voit!
+Pääsy kevyen eristyksen vyöhykkeelle estetään 15 minuutin kuluttua, jonka\njälkeen jokainen sinne jäänyt kuolee. Pakene vielä kun voit!
 Maksimoi etulyöntiasemasi vaihtamalla aseesi lisävarusteita tilanteen perusteella.
 Mitä enemmän aseessasi on lisävarusteita, sitä enemmän se painaa. Tämä vaikuttaa jaksavuuteesi ja liikkumisnopeuteesi.
 Äänenvaimentimet eivät ainoastaan vaimenna laukaisun ääntä, vaan ne piilottavat myös suuliekin.
@@ -23,7 +23,7 @@ Suojaliivin käyttäminen lisää esineiden ja patruunoiden määrää, jota voi
 Panssariluodit (AP-luodit) tehoavat parhaiten suojaliiviä käyttäviin vihollisiin.
 Reikäpääluodit (JHP-luodit) tekevät enemmän vahinkoa suojaliivittömiin vihollisiin, mutta vähemmän vahinkoa suojaliiviä käyttäviin vihollisiin.
 Voit pitää [Lataa]-näppäintä pohjassa poistaaksesi patruunat aseesta, jolloin ne siirtyvät tavaraluetteloosi.
-Kaaoskapinallisten aseet tekevät paljon vahinkoa, mutta niiden patruunoita ei löydy laitoksesta. Tee jokainen laukaus merkitykselliseksi.
+Kaaoskapinallisten aseet tekevät paljon vahinkoa, mutta niiden patruunoita ei saa laitoksesta. Tee jokainen laukaus merkitykselliseksi.
 Kranaatteja voi käyttää ovien tuhoamiseen.
 Voit heittää kranaatin myös hiiren oikeasta painikkeesta, jolloin se ei lennä niin pitkälle.
 Micro H.I.D. voi tappaa useimmat SCP:t todella nopeasti, mutta sen akku ei kestä pitkään. Käytä sitä järkevästi!
@@ -71,7 +71,7 @@ SCP-939 voi päästää ilmaan pilven muistihäiriötä aiheuttavaa aerosolia.\n
 Adrenaliinin käyttö kumoaa SCP-939:n päästämän muistihäiriötä aiheuttavan aerosolin vaikutukset.
 Tainnutuskranaatit toimivat erittäin tehokkaasti SCP-939:ää vastaan.
 Mitä heikompi SCP-939:n jaksavuus on, sitä huonommin se voi havaita ihmisiä.
-Mitä pidempään SCP-939 keskittyy, sitä ääniherkempi siitä tulee.
+Mitä pidempään SCP-939 käyttää keskittymiskykyä, sitä ääniherkempi siitä tulee.
 SCP:iden askeleet kuulostavat erilaisilta kuin ihmisten askeleet. Kuuntele tarkasti!
 SCP-049:n hyökkäys aiheuttaa ihmiselle sydämenpysähdyksen. Terveys ja jaksavuus kuluvat sen aikana todella nopeasti.
 SCP-049 voi tappaa välittömästi minkä tahansa ihmisen, joka kärsii sydämenpysähdyksestä.
@@ -79,5 +79,5 @@ Sydämenpysähdys kuluttaa terveyttäsi todella nopeasti. Tarvitset lääkintät
 SCP-049 voi herättää ruumiin henkiin vain, jos se on tuore.
 SCP-049 voi antaa pienen terveyssuojan lähellä oleville SCP-049-2-yksilöilleen.
 SCP-049-2 ottaa lisävahinkoa pääosumista.
-SCP-049-2:t ovat hyviä tiedustelijoita ja vaarallisia suurina joukkoina
+SCP-049-2:t ovat hyviä tiedustelijoita ja vaarallisia suurena laumana.
 Suurimmalla osalla pelattavista SCP:istä on toinen terveyspalkki, josta käytetään lyhennettä "HS". Se ottaa vastaan otetun vahingon ja uusiutuu ajan myötä.

@@ -48,7 +48,7 @@
 52~FR-MG-0
 53~A7
 54~Lyhty~Klassinen öljylamppu, johon on kaiverrettu nimi "Daniel".
-55~SCP-1344~Muunnellut suojalasit, joiden avulla voit havaita muiden pelaajien sijainnit seinien läpi. Kun olet laittanut ne päälle, et saa enää ikinä ottaa niitä pois!~Silmäänpistävät suojalasit
+55~SCP-1344~Muunnellut suojalasit, joiden avulla voit havaita muiden pelaajien sijainnit seinien läpi. Kun olet laittanut ne päälle, et saa enää koskaan ottaa niitä pois!~Silmäänpistävät suojalasit
 56~Lumipallo
 57~Hiili
 58~Hiili?
