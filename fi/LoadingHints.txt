@@ -41,12 +41,12 @@ SCP-018:lla voi tukkia tien takaa-ajajilta, jos sen heittää pomppimaan käytä
 SCP-330:sta voi saada kuutta erilaista karkkia, joilla on kullakin oma vaikutus. Muista kuitenkin, ettet ota kahta enempää!
 SCP-1853 parantaa aseen lataamisen nopeutta ja vähentää ampujan tuntemaa rekyyliä.
 SCP-2176:lla voi lukita huoneen tai avata SCP-079:n lukitseman huoneen ja oven lukitukset.
-SCP-2176:lla voi lamaannuttaa SCP-079:n hetkellisesti, jos se heitetään huoneeseen, jota se para-aikaa vahtii.
+SCP-2176:lla voi lamaannuttaa SCP-079:n hetkellisesti, jos se heitetään huoneeseen, jota se sillä hetkellä vahtii.
 SCP-244 hidastaa esineiden poimimisen nopeutta ja pysäyttää SCP:iden uusiutuvan suojan uusiutumisen.
 SCP-1576 mahdollistaa elosa olevien pelaajien puhua katsojille lyhyen aikaa.
 SCP-914 pystyy muuntamaan kaikkia esineitä, mukaan lukien aseita ja patruunoita.
 SCP-914 pystyy latamaan radion ja Micro H.I.D.:n.
-SCP-914 pystyy luomaan useita ainutlaatuisia esineitä, joita et löydä mistään muualta. Kokeile mitä saat!
+SCP-914 pystyy luomaan useita ainutlaatuisia esineitä, joita et saa mistään muualta. Kokeile mitä saat!
 SCP-079 on alussa suhteellisen heikko, mutta siitä tulee voimakkaampi pelin edetessä.
 SCP-079 voi lukita ovia, sammuttaa valot ja laukaista teslaportin.
 SCP-079:n vahtima teslaportti näyttää aina siltä, että se olisi laukaisuvalmiina.

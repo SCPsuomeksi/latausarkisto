@@ -26,7 +26,7 @@
 30~COM-18
 31~SCP-018~Erittäin tehokkaasti pomppimaan kykenevä superpallo. Kimpoaa tappavasti korkeissa nopeuksissa.~Superpallo
 32~SCP-268~Puettuna tekee sinut väliaikaisesti näkymättömäksi, ellet keskeytä sitä käyttämällä jotakin.~Sivuuttamisen lakki
-33~Adrenaliini~Tarjoaa väliaikaisen lisän terveyteen ja jaksavuuteen.
+33~Adrenaliini~Antaa väliaikaisen lisän terveyteen ja jaksavuuteen.
 34~Kipulääke~Palauttaa terveyttä hitaasti ajan myötä.
 35~Kolikko~Et tiedä miksi haluaisit kantaa tätä mukanasi...
 36~Kevyt suojaliivi

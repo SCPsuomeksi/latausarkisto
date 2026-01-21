@@ -8,10 +8,10 @@ Rekyyli tähdättäessä
 Luodin tarkkuus
 Lonkkatarkkuus
 Tähtäystarkkuus
-Nostoaika
+Käyttöönottoaika
 Laukauksen äänekkyys
 Lippaan kapasiteetti
-Nostoaika
+Käyttöönottoaika
 Latausaika
 ---
 Tähtäysnopeus

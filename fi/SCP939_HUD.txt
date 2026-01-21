@@ -44,5 +44,5 @@ Lopeta toisto
 Leikkaa tallennetta vetämällä
 Merkitse suosikiksi. Suosikiksi merkittyjä tallenteita voi toistaa pikanäppäimestä.
 Järjestä tallenteita vetämällä
-Veit uhrisi äänet!
+Veit uhrisi äänen!
 Sprint:Hold [key] to consume stamina and move at a faster pace. Stamina regenerates when you stop sprinting. Be mindful of its usage!

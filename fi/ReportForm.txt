@@ -1,7 +1,7 @@
-Report Player
-Target:\nPlayer ID:\nDescription:
-Cancel
-Report for breaking server rules
-Report for cheating or raiding
-REPORTING
-Please wait...
+Ilmianna pelaaja
+Ilmiannettava pelaaja:\nPelaajan numero:\nKuvaus:
+<size=26>Peruuta
+<size=24>Ilmianna palvelimen sääntöjen rikkomisesta
+<size=24.5>Ilmianna huijaamisesta tai hyökkäyksestä
+LÄHETETÄÄN
+Odota...
