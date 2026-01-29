@@ -25,6 +25,6 @@ Suosi palvelimen arvonimeä
 Pelinlaajuisen arvonimen näkyvyyden mieltymys
 Palvelimen arvonimen näkyvyyden mieltymys
 Kieltäydy SCP:nä olemisesta
-Jos tämä asetus on käytössä, et voi syntyä SCP:nä, ellei palvelimella ole tarpeeksi halukkaita SCP:nä pelaamiseen.
+Jos tämä asetus on käytössä, et voi syntyä SCP:nä, paitsi jos palvelimella ei ole tarpeeksi halukkaita SCP:nä pelaamiseen.
 Älä kieltäydy
 Kieltäydy

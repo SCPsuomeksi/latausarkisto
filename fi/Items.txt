@@ -44,7 +44,7 @@
 48~COM-45
 49~SCP-1576~Mahdollistaa viestinnän kuolleiden kanssa hetkellisesti. Voidaan käyttää uudelleen jonkin ajan kuluttua.~Edisionilainen puhelin tuonpuoleiseen
 50~Jailbird~Outo epävakaa nuija, jolla voit lyödä vihollisia tai rynnätä niitä päin tehden paljon vahinkoa.
-51~Epäkola~SCP-914:lla tehdyn kokeen tulos. Hyväksi terveydelle, haitaksi motorillisille taidoille. Pelastaa henkesi kiipelissä.~tollupaloK
+51~Vastakola~SCP-914:lla tehdyn kokeen tulos. Hyväksi terveydelle, haitaksi motorillisille taidoille. Pelastaa henkesi hengenhädässä.~tollupaloK
 52~FR-MG-0
 53~A7
 54~Lyhty~Klassinen öljylamppu, johon on kaiverrettu nimi "Daniel".

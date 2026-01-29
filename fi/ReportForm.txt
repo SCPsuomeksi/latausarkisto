@@ -1,7 +1,7 @@
 Ilmianna pelaaja
 Ilmiannettava pelaaja:\nPelaajan numero:\nKuvaus:
-<size=26>Peruuta
-<size=24>Ilmianna palvelimen sääntöjen rikkomisesta
-<size=24.5>Ilmianna huijaamisesta tai hyökkäyksestä
+<size=26>Peruuta</size>
+<size=24>Ilmianna palvelimen sääntöjen rikkomisesta</size>
+<size=24.5>Ilmianna huijaamisesta tai hyökkäyksestä</size>
 LÄHETETÄÄN
 Odota...
