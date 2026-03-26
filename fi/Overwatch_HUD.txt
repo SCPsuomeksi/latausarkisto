@@ -16,3 +16,5 @@ Player Info
 Hitreg Log
 Debug Traces
 Hit Register Log:\n<size=11>New entries will appear from the right</size>
+Lobby
+SCP-1507

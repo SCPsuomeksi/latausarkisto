@@ -27,4 +27,4 @@ Valmiina sähköpurkaukseen. Käynnistä [primary] -näppäimestä.
 Tämä ase on vaurioitunut. Sen toimivuus on rajoitunut.
 SCP-127 vahvistuu sitä mukaa, kun tunnesiteesi sen kanssa syvenee.
 Ohjaa käärmettä $nuolinäppäimistä$ tai $[up], [left], [down] ja [right]$ -näppäimistä.
-Naura ilkikurisesti [key]-näppäimestä.
+Juoksunopeus

@@ -1,7 +1,7 @@
 PUHEEN ÄÄNENVOIMAKKUUS
 Kyllä
 PAKOTA ALOITUS
-SCP-106 UUDELLEENERISTYS\nPROSESSIN OHITUS
+SCP-106:n UUDELLEENERISTYS-\nPROSESSIN PAKOTUS
 Käänteinen Y-akseli
 YHTEENVETO
 Peruuta
@@ -34,8 +34,8 @@ Pakenemisaika: [escape_minutes] minuuttia ja [escape_seconds] sekuntia
 Odota [time] ennen kuin voit käyttää esinettä [item] uudelleen.
 Saat lisätietoja <color=yellow><b>F1</b></color>-näppäimestä.
 Sinut on pidätetty.\n<size=40>Noudata käskyjä tai kysy apua tiimitovereiltasi.</size>
-Nine-Tailed Fox otti sinut kiinni.\nNyt kun laitoksessa on yksi uhka vähemmän, he pystyivät vahvistautumaan yhdellä.
-Kaaoskapinalliset ottivat sinut vangiksi.\nHe pystyivät saamaan etuaseman antamasi tiedon avulla.
+Nine-Tailed Fox otti sinut kiinni.\nNyt kun laitoksessa on yksi uhka vähemmän, he onnistuivat tuomaan lisäjoukon.
+Kaaoskapinalliset ottivat sinut vangiksi.\nHe saivat ison hyödyn antamastasi tiedosta.
 KIERROS ALKAA: <color=yellow>{0}</color>s
 KIERROKSEN ALKAMINEN <color=#FF5050>PYSÄYTETTY</color>
 TÄHTÄÄMISEN HERKKYYDEN VÄHENNYS
@@ -43,7 +43,7 @@ Peruuta heittäminen [key]-näppäimestä.
 Tähtääminen kerran painamalla
 Mykistä muut katsojat
 Ota haittaäänen vähennys käyttöön (suositeltu)
-Automatic (System Default)
+Automaattinen (Järjestelmän oletus)
 Mikrofonia ei havaittu!
 SYÖTTÖLAITE
 Puhalla kynttilät [key]-näppäimestä.
