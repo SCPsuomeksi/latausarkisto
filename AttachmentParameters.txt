@@ -1,0 +1,24 @@
+Tähtäimen suurennos
+---
+Vahinko
+Lävistys
+Tulinopeus
+Rekyyli
+Rekyyli tähdättäessä
+Luodin tarkkuus
+Lonkkatarkkuus
+Tähtäystarkkuus
+Käyttöönottoaika
+Laukauksen äänekkyys
+Lippaan kapasiteetti
+Käyttöönottoaika
+Latausaika
+---
+Tähtäysnopeus
+Haulihajonta
+Kuvion yhteneväisyys
+Ammusten määrä
+Latausnopeus
+---
+Juoksutarkkuus
+Kaksitoiminen nopeus

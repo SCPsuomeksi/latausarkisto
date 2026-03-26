@@ -1,0 +1,17 @@
+{
+  "Name": "suomi",
+  "Authors": [
+    "Saikkimus"
+  ],
+  "InterfaceLocales": [
+    "fi-FI",
+    "fi"
+  ],
+  "SystemLocales": [
+    "fi-FI",
+    "fi"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

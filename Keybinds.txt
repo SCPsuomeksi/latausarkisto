@@ -1,0 +1,39 @@
+Hyökkää/Ammu
+Tähtää
+Hyppää
+Käytä
+Tavaraluettelo
+Lataa
+Juokse
+Puhekeskustelu
+Hiivi
+Liiku eteenpäin
+Liiku taaksepäin
+Liiku vasemmalle
+Liiku oikealle
+Pelaajaluettelo
+Hahmon tiedot
+Palvelimen ylläpito (Remote Admin)
+Käytä valoa
+Toissijainen puhekeskustelu
+Liiku seinien läpi (Noclip)
+Pelin konsoli
+Avainkortin pikanäppäin
+Tarkastele
+Viritä revolveri
+Heitä esine
+Ensisijaisen aseen pikanäppäin
+Toissijaisen aseen pikanäppäin
+Ensiaputarvikkeen pikanäppäin
+Piilota heijastusnäyttö (HUD)
+Piilota sumu liikkuessa seinien läpi
+Kranaatin pikanäppäin
+Esc-valikko
+Virheenjäljitysloki
+Vapaan katsomisen tila
+Lukitse ovi
+Poista kaikki lukitukset
+Sammuta valot
+Huonelukitus
+Merkitse
+Pakokartoitin

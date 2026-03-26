@@ -1,0 +1,4 @@
+<size=1800><color=red>POIS PÄÄLTÄ</color></size>
+<color=red><size=2000>ODOTA</size></color>
+<color=green><size=1800>VALMIINA</size></color>
+<size=60>RÄJÄHDYS PYSÄYTTÄMÄTTÖMISSÄ</size>

@@ -1,0 +1,46 @@
+Ei mitään~Vakiovaihtoehto, jolla ei ole myönteisiä eikä kielteisiä vaikutuksia.
+Rautatähtäin~Etu- ja takatähtäimestä koostuva yksinkertainen ja kevyt tähtäinvaihtoehto.
+Punapistetähtäin~Kohdetta suurentamaton heijastintähtäin, jossa on tähtäyssuunnan osoittava pieni valaistu piste.
+Holografinen tähtäin~Kohdetta suurentamaton tähtäin, jossa on holografinen ristikko. Soveltuu hyvin lähitaistelutilanteisiin.
+Pimeänäkötähtäin~Pimeänäkölaitteella varustettu kiikaritähtäin. Painava, mutta toimii niin valoisessa kuin pimeässäkin ympäristössä.
+Patruunalaskuritähtäin~Rautatähtäimen ja patruunalaskurin yhdistelmä, joka näyttää aseessa jäljellä olevien patruunoiden määrän.
+Kiikaritähtäin~Painava optinen tähtäin, joka suurentaa tähdättyä kohdetta. Erinomainen pitkän matkan ammuntaan, mutta rajoittaa näkyvyyttä tähtäimen taakse.
+Vakioperä~Tavallinen perä, joka helpottaa ampumisen hallintaa tähdättäessä.
+Pidennetty perä~Helpottaa ampumisen hallintaa tähdättäessä, mutta pidentää aseen käyttöönottoaikaa.
+Lyhennetty perä~Lyhentää aseen pituutta, mikä helpottaa sen kanssa liikkumista.
+Kevyempi perä~Vähentää aseen painoa, mutta vaikeuttaa ampumisen hallintaa tähdättäessä.
+Painavampi perä~Lisää aseen painoa, mikä helpottaa ampumisen hallintaa tähdättäessä, mutta vaikeuttaa aseen kanssa liikkumista.
+Rekyyliä vaimentava perä~Perä, jossa on rekyyliä vaimentava rakenne, mikä helpottaa ampumisen hallintaa tähdättäessä.
+Etukahva~Pystysuora etukahva, joka helpottaa hallitsemaan rekyylistä johtuvaa piipun nousua.
+Lasertähtäin~Luo nähtävän tähtäyspisteen viholliseen, mikä helpottaa lonkalta ampumista, mutta voi paljastaa sijaintisi vihollisille helposti.
+Asevalo~Kytkettävä valonlähde. Lisää aseen painoa, mutta voi pelastaa henkesi pimeissä paikoissa.
+Patruunalaskuri~Näyttää aseessa jäljellä olevien patruunoiden määrän. Kokeellista teknologiaa, joka on osoittautunut hyödylliseksi etenkin suurikapasiteettisten lippaiden kanssa.
+Vakiopiippu~Vakiopiippu, jonka suuosaan ei ole asennettu mitään ylimääräistä.
+Pidennetty piippu~Parantaa tulivoimaa, mutta lisää aseen painoa ja pituutta, mikä vaikeuttaa sen kanssa liikkumista.
+Äänenvaimennin~Vähentää laukausten aiheuttamaa ääntä, mutta lisää aseen painoa ja pituutta.
+Liekinsammutin~Estää suuliekin syntymisen, mikä helpottaa ampumista pimeässä.
+Suujarru~Vähentää rekyyliä uudelleenohjaamalla ruutikaasuja, mutta lisää laukauksista aiheutuvaa ääntä.
+Rekyylinvahvistin~Parantaa tulinopeutta ja siten sekuntikohtaista vahinkoa, mutta vaikeuttaa ampumisen hallintaa.
+FMJ-lipas~Kokovaippapatruunoita sisältävä vakiolipas.
+AP-lipas~Panssaripatruunoita sisältävä vakiolipas.
+JHP-lipas~Reikäpääpatruunoita sisältävä vakiolipas.
+Suurikapasiteettinen FMJ-lipas~Kokovaippapatruunoita sisältävä suuremman kapasiteetin lipas.
+Suurikapasiteettinen AP-lipas~Panssaripatruunoita sisältävä suuremman kapasiteetin lipas.
+Suurikapasiteettinen JHP-lipas~Reikäpääpatruunoita sisältävä suuremman kapasiteetin lipas.
+FMJ-rumpulipas~Kokovaippapatruunoita sisältävä suuren kapasiteetin rumpulipas.
+AP-rumpulipas~Panssaripatruunoita sisältävä suuren kapasiteetin rumpulipas.
+JHP-rumpulipas~Reikäpääpatruunoita sisältävä suuren kapasiteetin rumpulipas.
+Pienikapasiteettinen FMJ-lipas~Kokovaippapatruunoita sisältävä pienemmän kapasiteetin lipas.
+Pienikapasiteettinen AP-lipas~Panssaripatruunoita sisältävä pienemmän kapasiteetin lipas.
+Pienikapasiteettinen JHP-lipas~Reikäpääpatruunoita sisältävä pienemmän kapasiteetin lipas.
+Viiden patruunan rulla~Rullan sisälle mahtuu vähemmän patruunoita, mutta luodit lävistävät panssaria paremmin.
+Kuuden patruunan rulla~Vanha kunnon kuudestilaukeava.
+Seitsemän buckshot-patruunan rulla~Sisältää hauleilla täytettyjä patruunoita. Tehokas lähietäisyydeltä.
+Karbiinin ylärunko~Perusmallinen karbiinin ylärunko, jota pidetään hyvänä kompromissina tulivoiman sekä aseen pituuden ja painon välillä.
+Rynnäkkökiväärin ylärunko~Täysikokoinen ylärunko parantaa tulivoimaa ja tarkkuutta, mutta sen raskaampi kaasujärjestelmä hidastaa aseen tulinopeutta.
+Lyhennetty piippu~Lyhennetty versio vakiopiipusta, joka helpottaa aseen kanssa liikkumista ja lyhentää sen käyttöönottoaikaa.
+Supistaja~Lisää haulien leviämisen laajuutta, mutta parantaa osumakuvion yhteneväisyyttä.
+Pidennetty piippu~Pienentää hajontaa, mutta lisää aseen painoa ja pituutta.
+Ei perää~Aseen lyhentäminen helpottaa huomattavasti sen kanssa liikkumista, mutta perän poistaminen voimakasrekyylisestä kivääristä ei ole aina paras idea.
+Yksittäislaukausjärjestelmä~Vakiojärjestelmä, jolla liipaisimen painaminen aiheuttaa yhden laukauksen kerrallaan.
+Kaksoislaukausjärjestelmä~Muunneltu liipaisinjärjestelmä, jolla liipaisimen painaminen laukaisee molemmat piiput samanaikaisesti.

@@ -1,0 +1,58 @@
+Todella alhainen
+Alhainen
+Keskitaso
+Korkea
+Todella korkea
+Todella korkea
+Päällä
+Pois päältä
+Varjot
+Varjojen tarkkuus
+Laitoksen valot
+Kuvatarkkuus
+Kuvasuhde
+Ikkunatila
+Enimmäiskuvataajuus
+Reunanpehmennys
+Pystytahdistus
+Siirtokuvat
+Tekstuurien laatu
+Kirkkaus
+Näyttöasetukset
+Laatu ja suorituskyky
+Ruumiiden jähmettyminen
+Ruumiiden jähmettymisen aika
+Kuvataajuusrajoitin
+Visuaaliset tehosteet
+Kuvan keikkuminen
+Räjähdysten ruututärinä
+Sokaisun tumma tila
+Kaikki
+Muut
+1/2 virkistystaajuudesta
+1/3 virkistystaajuudesta
+1/4 virkistystaajuudesta
+Näyttösi ei tue valitsemaasi kuvasuhdetta
+Kokonäyttö
+Reunaton ikkuna – pidä esillä
+Reunaton ikkuna – piilota taustalla
+Ikkunoitu
+SMAA:n laatu
+Ympäristön sulkeminen
+Hehkun laatu
+Poistaa fysiikat kuolleista ruumiista tietyn ajan jälkeen vähentääkseen suorittimen käyttöä.
+Tämänhetkisen kuvatarkkuutesi kuvasuhdetta ei tueta!\nJotkin käyttöliittymän osat eivät välttämättä näy oikein.
+Luodinreiät
+Verijäljet
+Kohdenäyttö
+• Kokonäyttö: Peli hallitsee näyttöä täysin.\n• Reunaton ikkuna: Luo kokonäytöltä näyttävän tilan venyttämällä ikkunan kattamaan koko näytön. Eri valinnat määrittävät, pysyykö peli näkyvillä ikkunan ollessa taustalla vai pienennetäänkö se (esimerkiksi jos toiseen ikkunaan painetaan). 
+Grafiikkarajapinta
+Muuttaa pelin käyttämää 3D-grafiikkarajapintaa.\nTämä asetus on kokeellinen, joten on suositeltavaa, että jätät sen automaattiselle — ellet yritä ratkaista jotain tiettyä renderöinti- tai suorituskykyongelmaa huonosti tuetulla laitteistolla.
+Muutokset tulevat voimaan pelin uudelleenkäynnistämisen jälkeen.
+Ei saatavilla, sillä grafiikkarajapinta pakotettiin pelin käynnistysasetuksista. 
+Verijälkien raja
+Luodinreikien raja
+Näytä neulat
+SCP-939:n näön sumennus
+Animaatioiden laatu
+Määrittää, kuinka usein ihmisten mallit päivittyvät niiden etäisyyden perusteella pelaajasta. Laadun alentaminen voi parantaa suorituskykyä, mutta ihmisten etäiset animaatiot saattavat näyttää nykiviltä.

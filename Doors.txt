@@ -1,0 +1,10 @@
+<color=green>AUKI</color>
+<color=#07A2FF>KIINNI</color>
+<color=orange>LIIKKUU</color>
+<color=red>LUKOSSA</color>
+<color=red>VIRHE</color>
+<color=red>PÄÄSY EVÄTTY</color>
+<color=green>PÄÄSY MYÖNNETTY</color>
+<color=#07A2FF>AVAINKORTTI VAADITTU</color>
+<color=orange>LIIKU LÄPI</color>
+<color=orange>SULKEUTUU</color>

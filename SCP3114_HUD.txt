@@ -1,0 +1,16 @@
+Olet nyt naamioitunut luokaksi [role_name].
+Et voi hyökätä naamioituneena. Pidä [key]-näppäintä pohjassa poistaaksesi naamioitumisesi.
+Esineitä ei voi käyttää SCP-3114:nä.
+Puhu ihmisille ollessasi naamiotunut [key]-näppäimestä.
+Tämä ruumis on jo kulutettu naamioitumiseen.
+Olet jo naamioitunut. Pidä [key]-näppäintä pohjassa poistaaksesi naamioitumisesi.
+Vain ihmisruumiita voi käyttää naamioitumiseen.
+Nämä tunnistamattomat luut ovat todennäköisesti pelaajan <b>[player_name]</b> jäänteet.
+Voit käyttää tätä ruumiista naamioituaksesi luokaksi [role].
+<size=50>Naamioidu</size>
+Kuristusrajoitus
+Skeletons In Your Closet:While disguised, you are unable to attack players, but you possess an inventory and can collect certain generic items. You may also communicate with nearby humans through proximity chat by holding [key].
+Catch These Hands:Press [key] to unleash a flurry of low-damage attacks at a nearby human. Killing a human with this attack will regenerate a large portion of your Hume Shield.
+Strangulation:After removing your disguise, you can hold [key] on nearby humans to strangle them. This will unequip their items and rapidly kill them. Strangulation is only available for a short time after removing your disguise.
+Under Their Skin:Holding [key] on a corpse allows you to disguise as a human. You will take on the name and class of the corpse, and leave behind a pile of bones. Disguises will eventually wear off, and can be removed early by holding R.
+Pidä [key]-näppäintä pohjassa pitempään poistaaksesi naamioitumisesi.

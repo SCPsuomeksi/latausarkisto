@@ -1,0 +1,9 @@
+ (%time% ⏳)
+ (+%influence% 👊)
+<color=%factionColor%>%timeDisplay%%influenceDisplay%</color>
+Suoritetut tavoitteet näkyvät täällä!
+<color=%achieverColor%>%achieverName%</color> tappoi pelaajan <color=%victimColor%>%victimName%</color>
+<color=%achieverColor%>%achieverName%</color> teki vahinkoa kohteeseen <color=%victimColor%>%victimName%</color>
+<color=%achieverColor%>%achieverName%</color> pakeni laitoksesta
+<color=%achieverColor%>%achieverName%</color> käynnisti <b>generaattorin</b>
+<color=%achieverColor%>%achieverName%</color> poimi esineen <color=red>%itemName%</color>
