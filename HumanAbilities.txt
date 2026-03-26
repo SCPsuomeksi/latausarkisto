@@ -1,8 +1,0 @@
-Juoksu:Lisää liikkumisnopeuttasi, mutta kuluttaa jaksavuuttasi. Jaksavuutesi alkaa palautumaan, kun lopetat juoksemisen. Muista säännöstellä sen käyttöä!
-Hiipiminen:Askeleistasi ei kuulu ääntä, mutta liikut paljon hitaammin.
-Tavaraluettelo:Näe kantamasi esineet ja patruunat. Siirrä hiiren osoitin esineen päälle nähdäksesi esineen tiedot ja ota esine käsiisi hiiren vasemmasta painikkeesta tai pudota se hiiren oikeasta.
-Taskut tyhjinä:D-luokan vankina aloitat kierroksen tyhjin käsin. Sinun täytyy tehdä yhteistyötä muiden vankien kanssa ja etsiä varusteita selviytyäksesi.
-Perustarpeet:Tutkijana aloitat kierroksen ensiapupakkauksella ja perustason avainkortilla. Sinun täytyy tehdä yhteistyötä työkavereidesi kanssa ja etsiä varusteita selviytyäksesi.
-Vakiovarustus:Sinulle on jaettu sotilastason aseistus ja suojavarustus, joilla pärjäät useimpia vihollisia vastaan. Käytä niitä hyödyksi ja tee yhteistyötä joukkuetovereidesi kanssa uhan eristämiseksi.
-Tehtävävarustus:Käyttöösi on annettu sotilastason aseistus ja suojavarustus, joilla pärjäät useimpia vihollisia vastaan. Käytä niitä hyödyksi ja tee yhteistyötä joukkuetovereidesi kanssa laitoksen valtaamiseksi.
-Perusvarustus:Käytössäsi on turvahenkilöstön perusvarusteet, joihin kuuluu keskinkertainen konepistooli, perustason avainkortti ja tainnutuskranaatti. Etsi parempia varusteita ja kulje yhdessä muiden vartioiden kanssa parantaaksenne selviytymismahdollisuuksianne.
